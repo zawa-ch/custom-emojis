@@ -6696,10 +6696,14 @@
                                                         "keyframes": [
                                                             {
                                                                 "time": 0,
+                                                                "value": 1
+                                                            },
+                                                            {
+                                                                "time": 24,
                                                                 "value": 0
                                                             },
                                                             {
-                                                                "time": 4,
+                                                                "time": 28,
                                                                 "value": 1
                                                             }
                                                         ]
@@ -8726,7 +8730,29 @@
                                                     "transform": {
                                                         "__type__": "Transform",
                                                         "anchor_point": {
+                                                            "value": {
+                                                                "x": 2.5,
+                                                                "y": 2.7
+                                                            }
+                                                        },
+                                                        "position": {
                                                             "keyframes": [
+                                                                {
+                                                                    "point_type": 0,
+                                                                    "tan_in": {
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
+                                                                    },
+                                                                    "tan_out": {
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
+                                                                    },
+                                                                    "time": 0,
+                                                                    "value": {
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
+                                                                    }
+                                                                },
                                                                 {
                                                                     "after": {
                                                                         "x": 1,
@@ -8738,42 +8764,36 @@
                                                                     },
                                                                     "point_type": 0,
                                                                     "tan_in": {
-                                                                        "x": 2.5,
-                                                                        "y": 2.7
+                                                                        "x": 0,
+                                                                        "y": 0
                                                                     },
                                                                     "tan_out": {
-                                                                        "x": 2.5,
-                                                                        "y": 2.7
+                                                                        "x": 0,
+                                                                        "y": 0
                                                                     },
-                                                                    "time": 4,
+                                                                    "time": 28,
                                                                     "value": {
-                                                                        "x": 2.5,
-                                                                        "y": 2.7
+                                                                        "x": 0,
+                                                                        "y": 0
                                                                     }
                                                                 },
                                                                 {
                                                                     "point_type": 0,
                                                                     "tan_in": {
-                                                                        "x": 0,
-                                                                        "y": 0
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
                                                                     },
                                                                     "tan_out": {
-                                                                        "x": 0,
-                                                                        "y": 0
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
                                                                     },
-                                                                    "time": 16,
+                                                                    "time": 40,
                                                                     "value": {
-                                                                        "x": 0,
-                                                                        "y": 0
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
                                                                     }
                                                                 }
                                                             ]
-                                                        },
-                                                        "position": {
-                                                            "value": {
-                                                                "x": 0,
-                                                                "y": 0
-                                                            }
                                                         },
                                                         "rotation": {
                                                             "value": 0
@@ -8781,6 +8801,13 @@
                                                         "scale": {
                                                             "keyframes": [
                                                                 {
+                                                                    "time": 0,
+                                                                    "value": {
+                                                                        "x": 1,
+                                                                        "y": 1
+                                                                    }
+                                                                },
+                                                                {
                                                                     "after": {
                                                                         "x": 1,
                                                                         "y": 1
@@ -8789,14 +8816,14 @@
                                                                         "x": 0,
                                                                         "y": 0
                                                                     },
-                                                                    "time": 4,
+                                                                    "time": 28,
                                                                     "value": {
                                                                         "x": 1.2000000476837158,
                                                                         "y": 1.2000000476837158
                                                                     }
                                                                 },
                                                                 {
-                                                                    "time": 16,
+                                                                    "time": 40,
                                                                     "value": {
                                                                         "x": 1,
                                                                         "y": 1
@@ -8818,10 +8845,14 @@
                                                         "keyframes": [
                                                             {
                                                                 "time": 0,
-                                                                "value": 0
+                                                                "value": 1
                                                             },
                                                             {
                                                                 "time": 24,
+                                                                "value": 0
+                                                            },
+                                                            {
+                                                                "time": 48,
                                                                 "value": 1
                                                             }
                                                         ]
@@ -10291,7 +10322,29 @@
                                                     "transform": {
                                                         "__type__": "Transform",
                                                         "anchor_point": {
+                                                            "value": {
+                                                                "x": 2.5,
+                                                                "y": 2.7
+                                                            }
+                                                        },
+                                                        "position": {
                                                             "keyframes": [
+                                                                {
+                                                                    "point_type": 0,
+                                                                    "tan_in": {
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
+                                                                    },
+                                                                    "tan_out": {
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
+                                                                    },
+                                                                    "time": 0,
+                                                                    "value": {
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
+                                                                    }
+                                                                },
                                                                 {
                                                                     "after": {
                                                                         "x": 1,
@@ -10303,42 +10356,36 @@
                                                                     },
                                                                     "point_type": 0,
                                                                     "tan_in": {
-                                                                        "x": 2.5,
-                                                                        "y": 2.7
+                                                                        "x": 0,
+                                                                        "y": 0
                                                                     },
                                                                     "tan_out": {
-                                                                        "x": 2.5,
-                                                                        "y": 2.7
+                                                                        "x": 0,
+                                                                        "y": 0
                                                                     },
-                                                                    "time": 24,
+                                                                    "time": 48,
                                                                     "value": {
-                                                                        "x": 2.5,
-                                                                        "y": 2.7
+                                                                        "x": 0,
+                                                                        "y": 0
                                                                     }
                                                                 },
                                                                 {
                                                                     "point_type": 0,
                                                                     "tan_in": {
-                                                                        "x": 0,
-                                                                        "y": 0
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
                                                                     },
                                                                     "tan_out": {
-                                                                        "x": 0,
-                                                                        "y": 0
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
                                                                     },
-                                                                    "time": 36,
+                                                                    "time": 60,
                                                                     "value": {
-                                                                        "x": 0,
-                                                                        "y": 0
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
                                                                     }
                                                                 }
                                                             ]
-                                                        },
-                                                        "position": {
-                                                            "value": {
-                                                                "x": 0,
-                                                                "y": 0
-                                                            }
                                                         },
                                                         "rotation": {
                                                             "value": 0
@@ -10346,6 +10393,13 @@
                                                         "scale": {
                                                             "keyframes": [
                                                                 {
+                                                                    "time": 0,
+                                                                    "value": {
+                                                                        "x": 1,
+                                                                        "y": 1
+                                                                    }
+                                                                },
+                                                                {
                                                                     "after": {
                                                                         "x": 1,
                                                                         "y": 1
@@ -10354,14 +10408,14 @@
                                                                         "x": 0,
                                                                         "y": 0
                                                                     },
-                                                                    "time": 24,
+                                                                    "time": 48,
                                                                     "value": {
                                                                         "x": 1.2000000476837158,
                                                                         "y": 1.2000000476837158
                                                                     }
                                                                 },
                                                                 {
-                                                                    "time": 36,
+                                                                    "time": 60,
                                                                     "value": {
                                                                         "x": 1,
                                                                         "y": 1
@@ -10421,10 +10475,14 @@
                                                         "keyframes": [
                                                             {
                                                                 "time": 0,
+                                                                "value": 1
+                                                            },
+                                                            {
+                                                                "time": 24,
                                                                 "value": 0
                                                             },
                                                             {
-                                                                "time": 4,
+                                                                "time": 28,
                                                                 "value": 1
                                                             }
                                                         ]
@@ -12772,7 +12830,29 @@
                                                     "transform": {
                                                         "__type__": "Transform",
                                                         "anchor_point": {
+                                                            "value": {
+                                                                "x": 2.5,
+                                                                "y": 2.7
+                                                            }
+                                                        },
+                                                        "position": {
                                                             "keyframes": [
+                                                                {
+                                                                    "point_type": 0,
+                                                                    "tan_in": {
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
+                                                                    },
+                                                                    "tan_out": {
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
+                                                                    },
+                                                                    "time": 0,
+                                                                    "value": {
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
+                                                                    }
+                                                                },
                                                                 {
                                                                     "after": {
                                                                         "x": 1,
@@ -12784,42 +12864,36 @@
                                                                     },
                                                                     "point_type": 0,
                                                                     "tan_in": {
-                                                                        "x": 2.5,
-                                                                        "y": 2.7
+                                                                        "x": 0,
+                                                                        "y": 0
                                                                     },
                                                                     "tan_out": {
-                                                                        "x": 2.5,
-                                                                        "y": 2.7
+                                                                        "x": 0,
+                                                                        "y": 0
                                                                     },
-                                                                    "time": 4,
+                                                                    "time": 28,
                                                                     "value": {
-                                                                        "x": 2.5,
-                                                                        "y": 2.7
+                                                                        "x": 0,
+                                                                        "y": 0
                                                                     }
                                                                 },
                                                                 {
                                                                     "point_type": 0,
                                                                     "tan_in": {
-                                                                        "x": 0,
-                                                                        "y": 0
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
                                                                     },
                                                                     "tan_out": {
-                                                                        "x": 0,
-                                                                        "y": 0
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
                                                                     },
-                                                                    "time": 16,
+                                                                    "time": 40,
                                                                     "value": {
-                                                                        "x": 0,
-                                                                        "y": 0
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
                                                                     }
                                                                 }
                                                             ]
-                                                        },
-                                                        "position": {
-                                                            "value": {
-                                                                "x": 0,
-                                                                "y": 0
-                                                            }
                                                         },
                                                         "rotation": {
                                                             "value": 0
@@ -12827,6 +12901,13 @@
                                                         "scale": {
                                                             "keyframes": [
                                                                 {
+                                                                    "time": 0,
+                                                                    "value": {
+                                                                        "x": 1,
+                                                                        "y": 1
+                                                                    }
+                                                                },
+                                                                {
                                                                     "after": {
                                                                         "x": 1,
                                                                         "y": 1
@@ -12835,14 +12916,14 @@
                                                                         "x": 0,
                                                                         "y": 0
                                                                     },
-                                                                    "time": 4,
+                                                                    "time": 28,
                                                                     "value": {
                                                                         "x": 1.2000000476837158,
                                                                         "y": 1.2000000476837158
                                                                     }
                                                                 },
                                                                 {
-                                                                    "time": 16,
+                                                                    "time": 40,
                                                                     "value": {
                                                                         "x": 1,
                                                                         "y": 1
@@ -12864,10 +12945,14 @@
                                                         "keyframes": [
                                                             {
                                                                 "time": 0,
-                                                                "value": 0
+                                                                "value": 1
                                                             },
                                                             {
                                                                 "time": 24,
+                                                                "value": 0
+                                                            },
+                                                            {
+                                                                "time": 48,
                                                                 "value": 1
                                                             }
                                                         ]
@@ -16475,7 +16560,29 @@
                                                     "transform": {
                                                         "__type__": "Transform",
                                                         "anchor_point": {
+                                                            "value": {
+                                                                "x": 2.5,
+                                                                "y": 2.7
+                                                            }
+                                                        },
+                                                        "position": {
                                                             "keyframes": [
+                                                                {
+                                                                    "point_type": 0,
+                                                                    "tan_in": {
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
+                                                                    },
+                                                                    "tan_out": {
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
+                                                                    },
+                                                                    "time": 0,
+                                                                    "value": {
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
+                                                                    }
+                                                                },
                                                                 {
                                                                     "after": {
                                                                         "x": 1,
@@ -16487,42 +16594,36 @@
                                                                     },
                                                                     "point_type": 0,
                                                                     "tan_in": {
-                                                                        "x": 2.5,
-                                                                        "y": 2.7
+                                                                        "x": 0,
+                                                                        "y": 0
                                                                     },
                                                                     "tan_out": {
-                                                                        "x": 2.5,
-                                                                        "y": 2.7
+                                                                        "x": 0,
+                                                                        "y": 0
                                                                     },
-                                                                    "time": 24,
+                                                                    "time": 48,
                                                                     "value": {
-                                                                        "x": 2.5,
-                                                                        "y": 2.7
+                                                                        "x": 0,
+                                                                        "y": 0
                                                                     }
                                                                 },
                                                                 {
                                                                     "point_type": 0,
                                                                     "tan_in": {
-                                                                        "x": 0,
-                                                                        "y": 0
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
                                                                     },
                                                                     "tan_out": {
-                                                                        "x": 0,
-                                                                        "y": 0
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
                                                                     },
-                                                                    "time": 36,
+                                                                    "time": 60,
                                                                     "value": {
-                                                                        "x": 0,
-                                                                        "y": 0
+                                                                        "x": 2.5,
+                                                                        "y": 2.7
                                                                     }
                                                                 }
                                                             ]
-                                                        },
-                                                        "position": {
-                                                            "value": {
-                                                                "x": 0,
-                                                                "y": 0
-                                                            }
                                                         },
                                                         "rotation": {
                                                             "value": 0
@@ -16530,6 +16631,13 @@
                                                         "scale": {
                                                             "keyframes": [
                                                                 {
+                                                                    "time": 0,
+                                                                    "value": {
+                                                                        "x": 1,
+                                                                        "y": 1
+                                                                    }
+                                                                },
+                                                                {
                                                                     "after": {
                                                                         "x": 1,
                                                                         "y": 1
@@ -16538,14 +16646,14 @@
                                                                         "x": 0,
                                                                         "y": 0
                                                                     },
-                                                                    "time": 24,
+                                                                    "time": 48,
                                                                     "value": {
                                                                         "x": 1.2000000476837158,
                                                                         "y": 1.2000000476837158
                                                                     }
                                                                 },
                                                                 {
-                                                                    "time": 36,
+                                                                    "time": 60,
                                                                     "value": {
                                                                         "x": 1,
                                                                         "y": 1
