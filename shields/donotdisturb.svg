@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="135" height="28" role="img" aria-label="Do not disturb">
+	<title>Do not disturb</title>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work>
+				<dc:title>Do not disturb</dc:title>
+				<dc:creator>
+					<cc:Agent><dc:title>zawa-ch.</dc:title></cc:Agent>
+				</dc:creator>
+				<cc:license
+					 rdf:resource="http://www.opensource.org/licenses/mit-license.php" />
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs>
+		<linearGradient id="s" x2="0" y2="100%">
+			<stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+			<stop offset="1" stop-opacity=".1"/>
+		</linearGradient>
+		<svg id="zz" width="16" height="16" viewBox="0 0 16 16" version="1.1">
+			<g>
+				<path style="fill:#ffffff" d="M 2,7 A 1,1 0 0 0 1,8 1,1 0 0 0 2,9 H 4.8652344 L 1.2324219,13.359375 A 1.0001,1.0001 0 0 0 2,15 H 7 A 1,1 0 0 0 8,14 1,1 0 0 0 7,13 H 4.1347656 L 7.7675781,8.640625 A 1.0001,1.0001 0 0 0 7,7 Z" />
+				<path style="fill:#ffffff" d="M 10.5,1 A 0.5,0.5 0 0 0 10,1.5 0.5,0.5 0 0 0 10.5,2 h 2 L 10.099609,5.1992187 A 0.50005,0.50005 0 0 0 10.5,6 h 3 A 0.5,0.5 0 0 0 14,5.5 0.5,0.5 0 0 0 13.5,5 h -2 L 13.900391,1.8007812 A 0.50005,0.50005 0 0 0 13.5,1 Z" />
+			</g>
+		</svg>
+	</defs>
+	<clipPath id="r">
+		<rect width="135" height="20" rx="3" fill="#fff"/>
+	</clipPath>
+	<clipPath id="tr1">
+		<rect x="-15" width="165" height="20" rx="20" ry="20" fill="#fff"/>
+	</clipPath>
+	<clipPath id="tr2">
+		<rect x="-15" width="165" height="20" rx="20" ry="20" fill="#fff"/>
+	</clipPath>
+	<g transform="translate(0, 4)" clip-path="url(#r)">
+		<rect width="0" height="20" fill="#555"/>
+		<rect x="0" width="135" height="20" fill="#5c5cd6"/>
+		<rect width="135" height="20" fill="url(#s)"/>
+	</g>
+	<g transform="translate(0, 4)">
+		<use x="5" y="3" width="14" height="14" href="#zz"/>
+	</g>
+	<g transform="translate(0, 4)" clip-path="url(#tr2)" fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+		<text aria-hidden="true" x="765" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1070">起こさないでください</text>
+		<text x="765" y="140" transform="scale(.1)" fill="#fff" textLength="1070">起こさないでください</text>
+	</g>
+	<g transform="translate(0, 4)" clip-path="url(#tr1)" fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+		<text aria-hidden="true" x="625" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="790">Do not disturb</text>
+		<text x="625" y="140" transform="scale(.1)" fill="#fff" textLength="790">Do not disturb</text>
+	</g>
+</svg>
