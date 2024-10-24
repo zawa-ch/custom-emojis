@@ -1,3 +1,3 @@
-# zawa-ch/mi-openmoji
+# zawa-ch/mi-emojis
 
-Misskeyのために製作したオープンソースのカスタム絵文字
+Misskeyのために製作したカスタム絵文字
