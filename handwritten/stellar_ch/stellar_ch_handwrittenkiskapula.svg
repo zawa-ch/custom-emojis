@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:cc="http://creativecommons.org/ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="80"
+	height="24"
+	viewBox="0 0 80 24"
+	version="1.1"
+	xml:space="preserve"
+	inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+	>
+	<title>Kiskapula!</title>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<cc:license rdf:resource="http://www.opensource.org/licenses/mit-license.php" />
+				<dc:title>Kiskapula!</dc:title>
+				<dc:date>2024-12-17</dc:date>
+				<dc:creator><cc:Agent><dc:title>zawa-ch.</dc:title></cc:Agent></dc:creator>
+				<dc:rights><cc:Agent><dc:title>Copyright 2024 zawa-ch.</dc:title></cc:Agent></dc:rights>
+				<dc:identifier>stellar_ch-handwrittenkiskapula</dc:identifier>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<sodipodi:namedview
+		pagecolor="#505050"
+		bordercolor="#eeeeee"
+		borderopacity="1"
+		inkscape:showpageshadow="0"
+		inkscape:pageopacity="0"
+		inkscape:pagecheckerboard="0"
+		inkscape:deskcolor="#d1d1d1"
+		inkscape:document-units="px"
+		showgrid="false"
+		>
+		<inkscape:grid units="px" originx="0" originy="0" spacingx="1" spacingy="1" empspacing="8" dotted="false" gridanglex="30" gridanglez="30" visible="false" />
+	</sodipodi:namedview>
+	<defs />
+	<g inkscape:groupmode="layer">
+		<path
+			d="m 6.5384788,18.678083 c 0.07291,-2.77053 1.23781,-6.58827 1.384615,-9.2307698 0.06821,-1.22774 -0.07089,-1.6612 0.923077,-2.76923 0.446243,-0.49745 1.091264,-1.1958496 1.8461502,-1.3076896 1.42296,-0.21081 3.16223,0.45802 4.15385,1.3846196 1.76484,1.64911 1.31479,5.7427598 0.46154,7.7692198 m 40.15383,1.84616 c 1.56751,0 2.32682,0.0337 3.69231,-0.30769 1.68676,-0.42169 2.57551,-1.07513 2.30769,-2.92308 -0.25648,-1.76976 -2.24452,-2.08339 -3.6923,-2.30769 -1.21419,-0.18812 -2.57535,-0.62167 -2.15385,-2.3076898 0.33067,-1.32267 2.26346,-1.76707 3.07692,-1.84616 0.82163,-0.0799 1.16587,-0.10507 2.15385,0.0769 l 0.61538,0.38461 m 6.46154,-0.46154 v 0.46154 m -39.23076,7.8461498 c 0.50713,-1.20443 0.55055,-3.95229 0.76923,-5.0769198 0.15017,-0.77229 -0.16076,-1.47331 0.38462,-2.23077 0.66331,-0.92126 2.09745,-0.53846 2.99999,-0.53846 1.50964,0 3.4103,-0.31313 4.61539,0.61538 1.86936,1.44034 0.84401,5.6160198 0.46154,7.6923098 m 5.53846,-8.3076898 c 1.88224,0 5.6947,-0.62241 6.38461,1.38462 0.56259,1.6366098 0.0769,4.0078898 0.0769,5.9999898 m 23.53846,-7.3846098 v 1.38462 m -50.76922,-0.46154 -0.46154,6.9230698"
+			style="fill:none;stroke:#fea711;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+		/>
+	</g>
+</svg>
