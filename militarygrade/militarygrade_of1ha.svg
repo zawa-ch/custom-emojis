@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="28" role="img" aria-label="中尉">
+	<title>中尉</title>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work>
+				<dc:title>中尉</dc:title>
+				<dc:creator>
+					<cc:Agent><dc:title>zawa-ch.</dc:title></cc:Agent>
+				</dc:creator>
+				<cc:license
+					 rdf:resource="http://www.opensource.org/licenses/mit-license.php" />
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<defs>
+		<linearGradient id="s" x2="0" y2="100%">
+			<stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+			<stop offset="1" stop-opacity=".1"/>
+		</linearGradient>
+	</defs>
+	<clipPath id="r">
+		<rect width="110" height="20" rx="3" fill="#fff"/>
+	</clipPath>
+	<style>
+	.bg {
+		fill: #00051f;
+	}
+	.fg {
+		fill: #fff;
+	}
+	text.fg {
+		font-style: normal;
+		font-variant: normal;
+		font-weight: normal;
+		font-stretch: normal;
+		line-height: 1;
+		font-family: 'Zen Antique';
+		-inkscape-font-specification: 'Zen Antique, Normal';
+		font-variant-ligatures: normal;
+		font-variant-caps: normal;
+		font-variant-numeric: normal;
+		font-variant-east-asian: normal;
+		text-align: start;
+		letter-spacing: 0px;
+		writing-mode: lr-tb;
+		direction: ltr;
+		text-anchor: start;
+	}
+	.shadow {
+		fill: #010101;
+		fill-opacity: .3;
+	}
+	.star {
+		fill: #dc64a0;
+	}
+	.belt {
+		fill: #ffd75f;
+	}
+	</style>
+	<g transform="translate(0, 4)" clip-path="url(#r)">
+		<rect width="0" height="20" fill="#555"/>
+		<rect x="0" width="110" height="20" class="bg"/>
+		<rect width="110" height="20" fill="url(#s)"/>
+	</g>
+	<g>
+		<path d="m 18,4 3,10 -3,10 h 2 l 3,-10 -3,-10 Z m 4,0 3,10 -3,10 h 2 l 3,-10 -3,-10 Z" class="belt" />
+		<path
+			sodipodi:type="star"
+			inkscape:flatsided="false"
+			sodipodi:sides="5"
+			sodipodi:cx="10"
+			sodipodi:cy="14"
+			sodipodi:r1="6"
+			sodipodi:r2="3"
+			sodipodi:arg1="-1.5707963"
+			sodipodi:arg2="-0.94247777"
+			inkscape:rounded="0"
+			inkscape:randomized="0"
+			d="m 10,8 1.763356,3.572949 3.942983,0.572949 -2.853169,2.781153 0.673541,3.927051 L 9.9999999,17 6.4732884,18.854102 7.1468304,14.927051 4.293661,12.145898 8.2366443,11.572949 Z"
+			inkscape:transform-center-y="-0.57294902"
+			class="star"
+			transform="translate(0,0.57294902)"
+		/>
+	</g>
+	<g>
+		<text xml:space="preserve" x="37" y="16" class="fg" style="font-size:12px"><tspan sodipodi:role="line" x="35" y="16">中尉</tspan></text>
+		<g class="fg" aria-label="A.OF-1" >
+			<path d="m 41,21 v -1 h -2 v 1 z m -3,-2 h 4 v 4 h -1 v -1 h -2 v 1 h -1 z" />
+			<path d="m 43,22 v 1 h 1 v -1 z" />
+			<path d="m 46,20 h 2 v 2 h -2 z m -1,-1 v 4 h 4 v -4 z" />
+			<path d="m 50,23 v -4 h 4 v 1 h -3 v 1 h 2 v 1 h -2 v 1 z" />
+			<path d="m 55,22 v 1 h 4 v -1 z" />
+			<path d="m 60,19 v 1 h 1 v 3 h 1 v -4 z" />
+		</g>
+	</g>
+</svg>
