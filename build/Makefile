@@ -1,9 +1,9 @@
 
 .PHONY: all clean help
 
-all: square
+all: militarygrade square
 
-clean: square.clean
+clean: militarygrade.clean square.clean
 
 help:
 	@echo "build mi-emojis"
@@ -13,3 +13,4 @@ help:
 	@echo "  clean  clean build directory"
 
 include square.mk
+include militarygrade.mk
