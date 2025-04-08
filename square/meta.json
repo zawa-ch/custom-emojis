@@ -1,0 +1,69 @@
+{
+	"metaVersion": 2,
+	"emojis": [
+		{
+			"fileName": "square_daitaisou.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "square_daitaisou",
+				"category": "square",
+				"type": "image/png",
+				"aliases": [
+					"だいたいそう"
+				],
+				"license": "MIT license (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "square_issyoniblackholejikkenshiyo.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "square_issyoniblackholejikkenshiyo",
+				"category": "square",
+				"type": "image/png",
+				"aliases": [
+					"一緒にブラックホール実験しよ…？"
+				],
+				"license": "MIT license (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "square_nikutabeyoniku.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "square_nikutabeyoniku",
+				"category": "square",
+				"type": "image/png",
+				"aliases": [
+					"にくたべよにく"
+				],
+				"license": "MIT license (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "square_omaenitaihojougadeteiru.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "square_omaenitaihojougadeteiru",
+				"category": "square",
+				"type": "image/png",
+				"aliases": [
+					"お前に逮捕状が出ている"
+				],
+				"license": "MIT license (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		}
+	]
+}
