@@ -12,7 +12,7 @@ square_animated.clean:
 	-rm -rf square_animated/
 
 square_animated.zip: square_animated/meta.json square_animated/meijitsutomonitaikin.png
-	cd square_animated/ && zip ../square_animated.zip ./*
+	cd square_animated/ && zip ../square_animated.zip meta.json ./*.png
 
 square_animated/meta.json: .square_animated.pre ../square_animated/meta.json
 	jq -c '.' ../square_animated/meta.json > square_animated/meta.json

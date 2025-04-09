@@ -12,7 +12,7 @@ square.clean:
 	-rm -rf square/
 
 square.zip: square/meta.json square/square_daitaisou.png square/square_issyoniblackholejikkenshiyo.png square/square_nikutabeyoniku.png square/square_omaenitaihojougadeteiru.png
-	cd square/ && zip ../square.zip ./*
+	cd square/ && zip ../square.zip meta.json ./*.png
 
 square/meta.json: .square.pre ../square/meta.json
 	jq -c '.' ../square/meta.json > square/meta.json

@@ -12,7 +12,7 @@ handwritten.stellar_ch.clean:
 	-rm -rf handwritten/stellar_ch/ && rmdir handwritten/
 
 handwritten.stellar_ch.zip: handwritten/stellar_ch/meta.json handwritten/stellar_ch/stellar_ch_handwrittenerailtu.png handwritten/stellar_ch/stellar_ch_handwrittengupekorin.png handwritten/stellar_ch/stellar_ch_handwritteninvitingbed.png handwritten/stellar_ch/stellar_ch_handwrittenjissekikaijo.png handwritten/stellar_ch/stellar_ch_handwrittenkawaii.png handwritten/stellar_ch/stellar_ch_handwrittenkiskapula.png handwritten/stellar_ch/stellar_ch_handwrittenkiskuluva.png handwritten/stellar_ch/stellar_ch_handwrittennetemorote.png handwritten/stellar_ch/stellar_ch_handwrittenohayo.png handwritten/stellar_ch/stellar_ch_handwrittenoyasumi.png handwritten/stellar_ch/stellar_ch_handwrittenshigotogahayai.png handwritten/stellar_ch/stellar_ch_handwrittenshigotohayasugimondai.png handwritten/stellar_ch/stellar_ch_handwrittenstartdispute.png handwritten/stellar_ch/stellar_ch_handwrittensugoi.png handwritten/stellar_ch/stellar_ch_handwrittentaitaikin.png
-	cd handwritten/stellar_ch/ && zip ../../handwritten.stellar_ch.zip ./*
+	cd handwritten/stellar_ch/ && zip ../../handwritten.stellar_ch.zip meta.json ./*.png
 
 handwritten/stellar_ch/meta.json: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/meta.json
 	jq -c '.' ../handwritten/stellar_ch/meta.json > handwritten/stellar_ch/meta.json
