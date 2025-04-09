@@ -1,0 +1,21 @@
+{
+	"metaVersion": 2,
+	"emojis": [
+		{
+			"fileName": "meijitsutomonitaikin.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "meijitsutomonitaikin",
+				"category": "square_animated",
+				"type": "image/apng",
+				"aliases": [
+					"名実ともに退勤"
+				],
+				"license": "Copyright 2024, zawa-ch. under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		}
+	]
+}
