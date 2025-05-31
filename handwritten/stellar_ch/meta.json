@@ -7,7 +7,7 @@
 			"emoji": {
 				"host": null,
 				"name": "stellar_ch_handwrittenerailtu",
-				"category": "square",
+				"category": "handwritten/stellar_ch",
 				"type": "image/png",
 				"aliases": [
 					"えらいっ"
@@ -23,7 +23,7 @@
 			"emoji": {
 				"host": null,
 				"name": "stellar_ch_handwrittengupekorin",
-				"category": "square",
+				"category": "handwritten/stellar_ch",
 				"type": "image/png",
 				"aliases": [
 					"ぐーぺこりん"
@@ -39,7 +39,7 @@
 			"emoji": {
 				"host": null,
 				"name": "stellar_ch_handwritteninvitingbed",
-				"category": "square",
+				"category": "handwritten/stellar_ch",
 				"type": "image/png",
 				"aliases": [
 					"ベッド",
@@ -57,7 +57,7 @@
 			"emoji": {
 				"host": null,
 				"name": "stellar_ch_handwrittenjissekikaijo",
-				"category": "square",
+				"category": "handwritten/stellar_ch",
 				"type": "image/png",
 				"aliases": [
 					"実績解除",
@@ -74,7 +74,7 @@
 			"emoji": {
 				"host": null,
 				"name": "stellar_ch_handwrittenkawaii",
-				"category": "square",
+				"category": "handwritten/stellar_ch",
 				"type": "image/png",
 				"aliases": [
 					"かわいい"
@@ -90,7 +90,7 @@
 			"emoji": {
 				"host": null,
 				"name": "stellar_ch_handwrittenkiskapula",
-				"category": "square",
+				"category": "handwritten/stellar_ch",
 				"type": "image/png",
 				"aliases": [
 					"Kiskapula",
@@ -107,7 +107,7 @@
 			"emoji": {
 				"host": null,
 				"name": "stellar_ch_handwrittenkiskuluva",
-				"category": "square",
+				"category": "handwritten/stellar_ch",
 				"type": "image/png",
 				"aliases": [
 					"Kiskuluva",
@@ -124,7 +124,7 @@
 			"emoji": {
 				"host": null,
 				"name": "stellar_ch_handwrittennetemorote",
-				"category": "square",
+				"category": "handwritten/stellar_ch",
 				"type": "image/png",
 				"aliases": [
 					"寝てもろて"
@@ -140,7 +140,7 @@
 			"emoji": {
 				"host": null,
 				"name": "stellar_ch_handwrittenohayo",
-				"category": "square",
+				"category": "handwritten/stellar_ch",
 				"type": "image/png",
 				"aliases": [
 					"おはよー",
@@ -157,7 +157,7 @@
 			"emoji": {
 				"host": null,
 				"name": "stellar_ch_handwrittenoyasumi",
-				"category": "square",
+				"category": "handwritten/stellar_ch",
 				"type": "image/png",
 				"aliases": [
 					"おやすみ"
@@ -173,7 +173,7 @@
 			"emoji": {
 				"host": null,
 				"name": "stellar_ch_handwrittenshigotogahayai",
-				"category": "square",
+				"category": "handwritten/stellar_ch",
 				"type": "image/png",
 				"aliases": [
 					"仕事が早い"
@@ -189,7 +189,7 @@
 			"emoji": {
 				"host": null,
 				"name": "stellar_ch_handwrittenshigotohayasugimondai",
-				"category": "square",
+				"category": "handwritten/stellar_ch",
 				"type": "image/png",
 				"aliases": [
 					"仕事早すぎ問題"
@@ -205,7 +205,7 @@
 			"emoji": {
 				"host": null,
 				"name": "stellar_ch_handwrittenstartdispute",
-				"category": "square",
+				"category": "handwritten/stellar_ch",
 				"type": "image/png",
 				"aliases": [
 					"紛争をはじめる"
@@ -221,7 +221,7 @@
 			"emoji": {
 				"host": null,
 				"name": "stellar_ch_handwrittensugoi",
-				"category": "square",
+				"category": "handwritten/stellar_ch",
 				"type": "image/png",
 				"aliases": [
 					"すごい！！"
@@ -237,7 +237,7 @@
 			"emoji": {
 				"host": null,
 				"name": "stellar_ch_handwrittentaitaikin",
-				"category": "square",
+				"category": "handwritten/stellar_ch",
 				"type": "image/png",
 				"aliases": [
 					"たいたいきーん"
