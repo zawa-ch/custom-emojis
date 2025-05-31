@@ -1,0 +1,122 @@
+{
+	"metaVersion": 2,
+	"emojis": [
+		{
+			"fileName": "donotdisturb.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "donotdisturb",
+				"category": "shields",
+				"type": "image/apng",
+				"aliases": [
+					"起こさないでください",
+					"Do not disturb"
+				],
+				"license": "Copyright 2024, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "nowplaying.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "nowplaying",
+				"category": "shields",
+				"type": "image/png",
+				"aliases": [
+					"Now Playing"
+				],
+				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "warning_nsfw.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "warning_nsfw",
+				"category": "shields/ContentWarning",
+				"type": "image/png",
+				"aliases": [],
+				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "warning_r15.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "warning_r15",
+				"category": "shields/ContentWarning",
+				"type": "image/png",
+				"aliases": [],
+				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "warning_r18.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "warning_r18",
+				"category": "shields/ContentWarning",
+				"type": "image/png",
+				"aliases": [],
+				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "warning_r18g.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "warning_r18g",
+				"category": "shields/ContentWarning",
+				"type": "image/png",
+				"aliases": [],
+				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "warning_spoiler.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "warning_spoiler",
+				"category": "shields/ContentWarning",
+				"type": "image/png",
+				"aliases": [],
+				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "warning_violence.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "warning_violence",
+				"category": "shields/ContentWarning",
+				"type": "image/png",
+				"aliases": [],
+				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		}
+	]
+}

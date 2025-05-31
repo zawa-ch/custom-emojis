@@ -1,9 +1,9 @@
 
 .PHONY: all clean help
 
-all: handwritten.stellar_ch LEDMatrix militarygrade square_animated square subtitles
+all: handwritten.stellar_ch LEDMatrix militarygrade shields square_animated square subtitles
 
-clean: handwritten.stellar_ch.clean LEDMatrix.clean militarygrade.clean square_animated.clean square.clean subtitles.clean
+clean: handwritten.stellar_ch.clean LEDMatrix.clean militarygrade.clean shields.clean square_animated.clean square.clean subtitles.clean
 
 help:
 	@echo "build mi-emojis"
@@ -12,7 +12,9 @@ help:
 	@echo "  all    build all targets"
 	@echo "  clean  clean build directory"
 	@echo "  handwritten.stellar_ch"
+	@echo "  LEDMatrix"
 	@echo "  militarygrade"
+	@echo "  shields"
 	@echo "  square_animated"
 	@echo "  square"
 	@echo "  subtitles"
@@ -20,6 +22,7 @@ help:
 include handwritten.stellar_ch.mk
 include LEDMatrix.mk
 include militarygrade.mk
+include shields.mk
 include square_animated.mk
 include square.mk
 include subtitles.mk
