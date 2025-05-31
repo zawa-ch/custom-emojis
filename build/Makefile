@@ -8,16 +8,13 @@ clean: handwritten.stellar_ch.clean LEDMatrix.clean militarygrade.clean shields.
 help:
 	@echo "build mi-emojis"
 	@echo ""
-	@echo "usable targets:"
-	@echo "  all    build all targets"
-	@echo "  clean  clean build directory"
-	@echo "  handwritten.stellar_ch"
-	@echo "  LEDMatrix"
-	@echo "  militarygrade"
-	@echo "  shields"
-	@echo "  square_animated"
-	@echo "  square"
-	@echo "  subtitles"
+	@echo "Meta targets:"
+	@echo "* all   | build all targets"
+	@echo "* clean | clean build directory"
+	@echo "Individual targets:"
+	@echo "> handwritten.stellar_ch LEDMatrix militarygrade shields square_animated square subtitles"
+	@echo "* <target>.clean | clean target"
+	@echo "* <target>.pre   | premake target"
 
 include handwritten.stellar_ch.mk
 include LEDMatrix.mk
