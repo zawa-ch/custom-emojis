@@ -1,0 +1,53 @@
+{
+	"metaVersion": 2,
+	"emojis": [
+		{
+			"fileName": "anadultmalecriesinsuchapitifulvoice.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "anadultmalecriesinsuchapitifulvoice",
+				"category": "subtitles",
+				"type": "image/png",
+				"aliases": [
+					"大人のオスがこんな情けない声で鳴くんですね。"
+				],
+				"license": "Copyright 2024, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": true
+			}
+		},
+		{
+			"fileName": "thisishowitisdeliveredtous.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "thisishowitisdeliveredtous",
+				"category": "subtitles",
+				"type": "image/png",
+				"aliases": [
+					"こうして私たちのもとに届けられる"
+				],
+				"license": "Copyright 2024, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "thiswillmakeitahangoroshi.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "thiswillmakeitahangoroshi",
+				"category": "subtitles",
+				"type": "image/png",
+				"aliases": [
+					"これではんごろしにします"
+				],
+				"license": "Copyright 2024, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": true
+			}
+		}
+	]
+}
