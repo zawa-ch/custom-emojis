@@ -1,9 +1,9 @@
 
 .PHONY: all clean help
 
-all: handwritten.stellar_ch militarygrade square_animated square
+all: handwritten.stellar_ch LEDMatrix militarygrade square_animated square
 
-clean: handwritten.stellar_ch.clean militarygrade.clean square_animated.clean square.clean
+clean: handwritten.stellar_ch.clean LEDMatrix.clean militarygrade.clean square_animated.clean square.clean
 
 help:
 	@echo "build mi-emojis"
@@ -17,6 +17,7 @@ help:
 	@echo "  square"
 
 include handwritten.stellar_ch.mk
+include LEDMatrix.mk
 include militarygrade.mk
 include square_animated.mk
 include square.mk
