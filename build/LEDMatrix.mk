@@ -115,3 +115,6 @@ LEDMatrix/ledmatrix_r16_nextis.png: .LEDMatrix.pre ../LEDMatrix/R16/ledmatrix_r1
 
 LEDMatrix/ledmatrix_r16_nextomaeda.png: .LEDMatrix.pre ../LEDMatrix/R16/ledmatrix_r16_nextomaeda.svg
 	resvg -z 4.0 --dpi 384 ../LEDMatrix/R16/ledmatrix_r16_nextomaeda.svg LEDMatrix/ledmatrix_r16_nextomaeda.png && optipng -q LEDMatrix/ledmatrix_r16_nextomaeda.png
+
+LEDMatrix/ledmatrix_r16_notification.png: .LEDMatrix.pre ../LEDMatrix/R16/ledmatrix_r16_notification.svg
+	resvg -z 4.0 --dpi 384 ../LEDMatrix/R16/ledmatrix_r16_notification.svg LEDMatrix/ledmatrix_r16_notification.png && optipng -q LEDMatrix/ledmatrix_r16_notification.png

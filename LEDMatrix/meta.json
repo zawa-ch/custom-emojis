@@ -294,6 +294,20 @@
 				"localOnly": false,
 				"isSensitive": false
 			}
+		},
+		{
+			"fileName": "ledmatrix_r16_notification.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "ledmatrix_r16_notification",
+				"category": "LEDMatrix",
+				"type": "image/png",
+				"aliases": [],
+				"license": "Copyright 2023, zawa-ch. under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
 		}
 	]
 }
