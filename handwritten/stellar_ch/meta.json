@@ -2,6 +2,204 @@
 	"metaVersion": 2,
 	"emojis": [
 		{
+			"fileName": "stellar_ch_handwritten_erailtu.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "stellar_ch_handwritten_erailtu",
+				"category": "handwritten/stellar_ch",
+				"type": "image/png",
+				"aliases": [
+					"えらいっ"
+				],
+				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "stellar_ch_handwritten_gupekorin.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "stellar_ch_handwritten_gupekorin",
+				"category": "handwritten/stellar_ch",
+				"type": "image/png",
+				"aliases": [
+					"ぐーぺこりん"
+				],
+				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "stellar_ch_handwritten_invitingbed.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "stellar_ch_handwritten_invitingbed",
+				"category": "handwritten/stellar_ch",
+				"type": "image/png",
+				"aliases": [
+					"ベッド",
+					"おいで",
+					"oide"
+				],
+				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "stellar_ch_handwritten_jissekikaijo.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "stellar_ch_handwritten_jissekikaijo",
+				"category": "handwritten/stellar_ch",
+				"type": "image/png",
+				"aliases": [
+					"実績解除",
+					"zissekikaijo"
+				],
+				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "stellar_ch_handwritten_kawaii.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "stellar_ch_handwritten_kawaii",
+				"category": "handwritten/stellar_ch",
+				"type": "image/png",
+				"aliases": [
+					"かわいい"
+				],
+				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "stellar_ch_handwritten_kiskapula.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "stellar_ch_handwritten_kiskapula",
+				"category": "handwritten/stellar_ch",
+				"type": "image/png",
+				"aliases": [
+					"Kiskapula",
+					"おはよう"
+				],
+				"license": "Copyright 2024, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "stellar_ch_handwritten_kiskuluva.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "stellar_ch_handwritten_kiskuluva",
+				"category": "handwritten/stellar_ch",
+				"type": "image/png",
+				"aliases": [
+					"Kiskuluva",
+					"おやすみ"
+				],
+				"license": "Copyright 2024, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "stellar_ch_handwritten_netemorote.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "stellar_ch_handwritten_netemorote",
+				"category": "handwritten/stellar_ch",
+				"type": "image/png",
+				"aliases": [
+					"寝てもろて"
+				],
+				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "stellar_ch_handwritten_ohayo.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "stellar_ch_handwritten_ohayo",
+				"category": "handwritten/stellar_ch",
+				"type": "image/png",
+				"aliases": [
+					"おはよー",
+					"おはよう"
+				],
+				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "stellar_ch_handwritten_oyasumi.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "stellar_ch_handwritten_oyasumi",
+				"category": "handwritten/stellar_ch",
+				"type": "image/png",
+				"aliases": [
+					"おやすみ"
+				],
+				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "stellar_ch_handwritten_shigotogahayai.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "stellar_ch_handwritten_shigotogahayai",
+				"category": "handwritten/stellar_ch",
+				"type": "image/png",
+				"aliases": [
+					"仕事が早い"
+				],
+				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "stellar_ch_handwritten_shigotohayasugimondai.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "stellar_ch_handwritten_shigotohayasugimondai",
+				"category": "handwritten/stellar_ch",
+				"type": "image/png",
+				"aliases": [
+					"仕事早すぎ問題"
+				],
+				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
 			"fileName": "stellar_ch_handwritten_squared_curryisdrink.png",
 			"downloaded": true,
 			"emoji": {
@@ -18,209 +216,11 @@
 			}
 		},
 		{
-			"fileName": "stellar_ch_handwrittenerailtu.png",
+			"fileName": "stellar_ch_handwritten_startdispute.png",
 			"downloaded": true,
 			"emoji": {
 				"host": null,
-				"name": "stellar_ch_handwrittenerailtu",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"えらいっ"
-				],
-				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwrittengupekorin.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwrittengupekorin",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"ぐーぺこりん"
-				],
-				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritteninvitingbed.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritteninvitingbed",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"ベッド",
-					"おいで",
-					"oide"
-				],
-				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwrittenjissekikaijo.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwrittenjissekikaijo",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"実績解除",
-					"zissekikaijo"
-				],
-				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwrittenkawaii.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwrittenkawaii",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"かわいい"
-				],
-				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwrittenkiskapula.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwrittenkiskapula",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"Kiskapula",
-					"おはよう"
-				],
-				"license": "Copyright 2024, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwrittenkiskuluva.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwrittenkiskuluva",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"Kiskuluva",
-					"おやすみ"
-				],
-				"license": "Copyright 2024, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwrittennetemorote.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwrittennetemorote",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"寝てもろて"
-				],
-				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwrittenohayo.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwrittenohayo",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"おはよー",
-					"おはよう"
-				],
-				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwrittenoyasumi.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwrittenoyasumi",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"おやすみ"
-				],
-				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwrittenshigotogahayai.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwrittenshigotogahayai",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"仕事が早い"
-				],
-				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwrittenshigotohayasugimondai.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwrittenshigotohayasugimondai",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"仕事早すぎ問題"
-				],
-				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwrittenstartdispute.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwrittenstartdispute",
+				"name": "stellar_ch_handwritten_startdispute",
 				"category": "handwritten/stellar_ch",
 				"type": "image/png",
 				"aliases": [
@@ -232,11 +232,11 @@
 			}
 		},
 		{
-			"fileName": "stellar_ch_handwrittensugoi.png",
+			"fileName": "stellar_ch_handwritten_sugoi.png",
 			"downloaded": true,
 			"emoji": {
 				"host": null,
-				"name": "stellar_ch_handwrittensugoi",
+				"name": "stellar_ch_handwritten_sugoi",
 				"category": "handwritten/stellar_ch",
 				"type": "image/png",
 				"aliases": [
@@ -248,11 +248,11 @@
 			}
 		},
 		{
-			"fileName": "stellar_ch_handwrittentaitaikin.png",
+			"fileName": "stellar_ch_handwritten_taitaikin.png",
 			"downloaded": true,
 			"emoji": {
 				"host": null,
-				"name": "stellar_ch_handwrittentaitaikin",
+				"name": "stellar_ch_handwritten_taitaikin",
 				"category": "handwritten/stellar_ch",
 				"type": "image/png",
 				"aliases": [

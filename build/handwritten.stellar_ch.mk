@@ -11,56 +11,56 @@ handwritten.stellar_ch.clean:
 	-rm handwritten.stellar_ch.zip .handwritten.stellar_ch.pre
 	-rm -rf handwritten/stellar_ch/ && rmdir handwritten/
 
-handwritten.stellar_ch.zip: handwritten/stellar_ch/meta.json handwritten/stellar_ch/stellar_ch_handwritten_squared_curryisdrink.png handwritten/stellar_ch/stellar_ch_handwrittenerailtu.png handwritten/stellar_ch/stellar_ch_handwrittengupekorin.png handwritten/stellar_ch/stellar_ch_handwritteninvitingbed.png handwritten/stellar_ch/stellar_ch_handwrittenjissekikaijo.png handwritten/stellar_ch/stellar_ch_handwrittenkawaii.png handwritten/stellar_ch/stellar_ch_handwrittenkiskapula.png handwritten/stellar_ch/stellar_ch_handwrittenkiskuluva.png handwritten/stellar_ch/stellar_ch_handwrittennetemorote.png handwritten/stellar_ch/stellar_ch_handwrittenohayo.png handwritten/stellar_ch/stellar_ch_handwrittenoyasumi.png handwritten/stellar_ch/stellar_ch_handwrittenshigotogahayai.png handwritten/stellar_ch/stellar_ch_handwrittenshigotohayasugimondai.png handwritten/stellar_ch/stellar_ch_handwrittenstartdispute.png handwritten/stellar_ch/stellar_ch_handwrittensugoi.png handwritten/stellar_ch/stellar_ch_handwrittentaitaikin.png
+handwritten.stellar_ch.zip: handwritten/stellar_ch/meta.json handwritten/stellar_ch/stellar_ch_handwritten_erailtu.png handwritten/stellar_ch/stellar_ch_handwritten_gupekorin.png handwritten/stellar_ch/stellar_ch_handwritten_invitingbed.png handwritten/stellar_ch/stellar_ch_handwritten_jissekikaijo.png handwritten/stellar_ch/stellar_ch_handwritten_kawaii.png handwritten/stellar_ch/stellar_ch_handwritten_kiskapula.png handwritten/stellar_ch/stellar_ch_handwritten_kiskuluva.png handwritten/stellar_ch/stellar_ch_handwritten_netemorote.png handwritten/stellar_ch/stellar_ch_handwritten_ohayo.png handwritten/stellar_ch/stellar_ch_handwritten_oyasumi.png handwritten/stellar_ch/stellar_ch_handwritten_shigotogahayai.png handwritten/stellar_ch/stellar_ch_handwritten_shigotohayasugimondai.png handwritten/stellar_ch/stellar_ch_handwritten_squared_curryisdrink.png handwritten/stellar_ch/stellar_ch_handwritten_startdispute.png handwritten/stellar_ch/stellar_ch_handwritten_sugoi.png handwritten/stellar_ch/stellar_ch_handwritten_taitaikin.png
 	cd handwritten/stellar_ch/ && zip ../../handwritten.stellar_ch.zip meta.json ./*.png
 
 handwritten/stellar_ch/meta.json: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/meta.json
 	jq -c '.' ../handwritten/stellar_ch/meta.json > handwritten/stellar_ch/meta.json
 
+handwritten/stellar_ch/stellar_ch_handwritten_erailtu.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwritten_erailtu.svg
+	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwritten_erailtu.svg handwritten/stellar_ch/stellar_ch_handwritten_erailtu.png && optipng -q handwritten/stellar_ch/stellar_ch_handwritten_erailtu.png
+
+handwritten/stellar_ch/stellar_ch_handwritten_gupekorin.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwritten_gupekorin.svg
+	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwritten_gupekorin.svg handwritten/stellar_ch/stellar_ch_handwritten_gupekorin.png && optipng -q handwritten/stellar_ch/stellar_ch_handwritten_gupekorin.png
+
+handwritten/stellar_ch/stellar_ch_handwritten_invitingbed.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwritten_invitingbed.svg
+	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwritten_invitingbed.svg handwritten/stellar_ch/stellar_ch_handwritten_invitingbed.png && optipng -q handwritten/stellar_ch/stellar_ch_handwritten_invitingbed.png
+
+handwritten/stellar_ch/stellar_ch_handwritten_jissekikaijo.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwritten_jissekikaijo.svg
+	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwritten_jissekikaijo.svg handwritten/stellar_ch/stellar_ch_handwritten_jissekikaijo.png && optipng -q handwritten/stellar_ch/stellar_ch_handwritten_jissekikaijo.png
+
+handwritten/stellar_ch/stellar_ch_handwritten_kawaii.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwritten_kawaii.svg
+	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwritten_kawaii.svg handwritten/stellar_ch/stellar_ch_handwritten_kawaii.png && optipng -q handwritten/stellar_ch/stellar_ch_handwritten_kawaii.png
+
+handwritten/stellar_ch/stellar_ch_handwritten_kiskapula.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwritten_kiskapula.svg
+	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwritten_kiskapula.svg handwritten/stellar_ch/stellar_ch_handwritten_kiskapula.png && optipng -q handwritten/stellar_ch/stellar_ch_handwritten_kiskapula.png
+
+handwritten/stellar_ch/stellar_ch_handwritten_kiskuluva.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwritten_kiskuluva.svg
+	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwritten_kiskuluva.svg handwritten/stellar_ch/stellar_ch_handwritten_kiskuluva.png && optipng -q handwritten/stellar_ch/stellar_ch_handwritten_kiskuluva.png
+
+handwritten/stellar_ch/stellar_ch_handwritten_netemorote.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwritten_netemorote.svg
+	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwritten_netemorote.svg handwritten/stellar_ch/stellar_ch_handwritten_netemorote.png && optipng -q handwritten/stellar_ch/stellar_ch_handwritten_netemorote.png
+
+handwritten/stellar_ch/stellar_ch_handwritten_ohayo.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwritten_ohayo.svg
+	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwritten_ohayo.svg handwritten/stellar_ch/stellar_ch_handwritten_ohayo.png && optipng -q handwritten/stellar_ch/stellar_ch_handwritten_ohayo.png
+
+handwritten/stellar_ch/stellar_ch_handwritten_oyasumi.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwritten_oyasumi.svg
+	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwritten_oyasumi.svg handwritten/stellar_ch/stellar_ch_handwritten_oyasumi.png && optipng -q handwritten/stellar_ch/stellar_ch_handwritten_oyasumi.png
+
+handwritten/stellar_ch/stellar_ch_handwritten_shigotogahayai.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwritten_shigotogahayai.svg
+	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwritten_shigotogahayai.svg handwritten/stellar_ch/stellar_ch_handwritten_shigotogahayai.png && optipng -q handwritten/stellar_ch/stellar_ch_handwritten_shigotogahayai.png
+
+handwritten/stellar_ch/stellar_ch_handwritten_shigotohayasugimondai.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwritten_shigotohayasugimondai.svg
+	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwritten_shigotohayasugimondai.svg handwritten/stellar_ch/stellar_ch_handwritten_shigotohayasugimondai.png && optipng -q handwritten/stellar_ch/stellar_ch_handwritten_shigotohayasugimondai.png
+
 handwritten/stellar_ch/stellar_ch_handwritten_squared_curryisdrink.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwritten_squared_curryisdrink.svg
 	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwritten_squared_curryisdrink.svg handwritten/stellar_ch/stellar_ch_handwritten_squared_curryisdrink.png && optipng -q handwritten/stellar_ch/stellar_ch_handwritten_squared_curryisdrink.png
 
-handwritten/stellar_ch/stellar_ch_handwrittenerailtu.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwrittenerailtu.svg
-	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwrittenerailtu.svg handwritten/stellar_ch/stellar_ch_handwrittenerailtu.png && optipng -q handwritten/stellar_ch/stellar_ch_handwrittenerailtu.png
+handwritten/stellar_ch/stellar_ch_handwritten_startdispute.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwritten_startdispute.svg
+	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwritten_startdispute.svg handwritten/stellar_ch/stellar_ch_handwritten_startdispute.png && optipng -q handwritten/stellar_ch/stellar_ch_handwritten_startdispute.png
 
-handwritten/stellar_ch/stellar_ch_handwrittengupekorin.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwrittengupekorin.svg
-	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwrittengupekorin.svg handwritten/stellar_ch/stellar_ch_handwrittengupekorin.png && optipng -q handwritten/stellar_ch/stellar_ch_handwrittengupekorin.png
+handwritten/stellar_ch/stellar_ch_handwritten_sugoi.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwritten_sugoi.svg
+	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwritten_sugoi.svg handwritten/stellar_ch/stellar_ch_handwritten_sugoi.png && optipng -q handwritten/stellar_ch/stellar_ch_handwritten_sugoi.png
 
-handwritten/stellar_ch/stellar_ch_handwritteninvitingbed.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwritteninvitingbed.svg
-	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwritteninvitingbed.svg handwritten/stellar_ch/stellar_ch_handwritteninvitingbed.png && optipng -q handwritten/stellar_ch/stellar_ch_handwritteninvitingbed.png
-
-handwritten/stellar_ch/stellar_ch_handwrittenjissekikaijo.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwrittenjissekikaijo.svg
-	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwrittenjissekikaijo.svg handwritten/stellar_ch/stellar_ch_handwrittenjissekikaijo.png && optipng -q handwritten/stellar_ch/stellar_ch_handwrittenjissekikaijo.png
-
-handwritten/stellar_ch/stellar_ch_handwrittenkawaii.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwrittenkawaii.svg
-	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwrittenkawaii.svg handwritten/stellar_ch/stellar_ch_handwrittenkawaii.png && optipng -q handwritten/stellar_ch/stellar_ch_handwrittenkawaii.png
-
-handwritten/stellar_ch/stellar_ch_handwrittenkiskapula.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwrittenkiskapula.svg
-	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwrittenkiskapula.svg handwritten/stellar_ch/stellar_ch_handwrittenkiskapula.png && optipng -q handwritten/stellar_ch/stellar_ch_handwrittenkiskapula.png
-
-handwritten/stellar_ch/stellar_ch_handwrittenkiskuluva.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwrittenkiskuluva.svg
-	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwrittenkiskuluva.svg handwritten/stellar_ch/stellar_ch_handwrittenkiskuluva.png && optipng -q handwritten/stellar_ch/stellar_ch_handwrittenkiskuluva.png
-
-handwritten/stellar_ch/stellar_ch_handwrittennetemorote.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwrittennetemorote.svg
-	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwrittennetemorote.svg handwritten/stellar_ch/stellar_ch_handwrittennetemorote.png && optipng -q handwritten/stellar_ch/stellar_ch_handwrittennetemorote.png
-
-handwritten/stellar_ch/stellar_ch_handwrittenohayo.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwrittenohayo.svg
-	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwrittenohayo.svg handwritten/stellar_ch/stellar_ch_handwrittenohayo.png && optipng -q handwritten/stellar_ch/stellar_ch_handwrittenohayo.png
-
-handwritten/stellar_ch/stellar_ch_handwrittenoyasumi.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwrittenoyasumi.svg
-	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwrittenoyasumi.svg handwritten/stellar_ch/stellar_ch_handwrittenoyasumi.png && optipng -q handwritten/stellar_ch/stellar_ch_handwrittenoyasumi.png
-
-handwritten/stellar_ch/stellar_ch_handwrittenshigotogahayai.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwrittenshigotogahayai.svg
-	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwrittenshigotogahayai.svg handwritten/stellar_ch/stellar_ch_handwrittenshigotogahayai.png && optipng -q handwritten/stellar_ch/stellar_ch_handwrittenshigotogahayai.png
-
-handwritten/stellar_ch/stellar_ch_handwrittenshigotohayasugimondai.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwrittenshigotohayasugimondai.svg
-	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwrittenshigotohayasugimondai.svg handwritten/stellar_ch/stellar_ch_handwrittenshigotohayasugimondai.png && optipng -q handwritten/stellar_ch/stellar_ch_handwrittenshigotohayasugimondai.png
-
-handwritten/stellar_ch/stellar_ch_handwrittenstartdispute.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwrittenstartdispute.svg
-	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwrittenstartdispute.svg handwritten/stellar_ch/stellar_ch_handwrittenstartdispute.png && optipng -q handwritten/stellar_ch/stellar_ch_handwrittenstartdispute.png
-
-handwritten/stellar_ch/stellar_ch_handwrittensugoi.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwrittensugoi.svg
-	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwrittensugoi.svg handwritten/stellar_ch/stellar_ch_handwrittensugoi.png && optipng -q handwritten/stellar_ch/stellar_ch_handwrittensugoi.png
-
-handwritten/stellar_ch/stellar_ch_handwrittentaitaikin.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwrittentaitaikin.svg
-	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwrittentaitaikin.svg handwritten/stellar_ch/stellar_ch_handwrittentaitaikin.png && optipng -q handwritten/stellar_ch/stellar_ch_handwrittentaitaikin.png
+handwritten/stellar_ch/stellar_ch_handwritten_taitaikin.png: .handwritten.stellar_ch.pre ../handwritten/stellar_ch/stellar_ch_handwritten_taitaikin.svg
+	resvg -z 4.0 --dpi 384 ../handwritten/stellar_ch/stellar_ch_handwritten_taitaikin.svg handwritten/stellar_ch/stellar_ch_handwritten_taitaikin.png && optipng -q handwritten/stellar_ch/stellar_ch_handwritten_taitaikin.png
