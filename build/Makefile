@@ -14,7 +14,6 @@ help:
 	@echo "Individual targets:"
 	@echo "> handwritten.stellar_ch LEDMatrix militarygrade shields square_animated square subtitles"
 	@echo "* <target>.clean | clean target"
-	@echo "* <target>.pre   | premake target"
 
 include handwritten.stellar_ch.mk
 include LEDMatrix.mk
