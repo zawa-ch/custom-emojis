@@ -17,10 +17,10 @@ shields.zip: shields/meta.json shields/donotdisturb.png shields/nowplaying.png s
 shields/meta.json: .shields.pre ../shields/meta.json
 	jq -c '.' ../shields/meta.json > shields/meta.json
 
-shields/donotdisturb.png: .shields.pre shields/donotdisturb/00.png
+shields/donotdisturb.png: .shields.pre shields/donotdisturb/000.png
 	apngasm -F -d 1:24 -o shields/donotdisturb.png shields/donotdisturb/*.png
 
-shields/donotdisturb/00.png: .shields.pre ../shields/donotdisturb.rawr
+shields/donotdisturb/000.png: .shields.pre ../shields/donotdisturb.rawr
 	mkdir -p shields/donotdisturb && \
 	.script/run_anywhere.sh glaxnimate -r shields/donotdisturb/.png --render-format png --frame all ../shields/donotdisturb.rawr
 
