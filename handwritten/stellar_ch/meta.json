@@ -208,7 +208,144 @@
 				"category": "handwritten/stellar_ch",
 				"type": "image/png",
 				"aliases": [
-					"カレーは飲み物"
+					"カレーは飲み物",
+					"kare-hanomimono"
+				],
+				"license": "Copyright 2025, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "stellar_ch_handwritten_squared_gupeko.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "stellar_ch_handwritten_squared_gupeko",
+				"category": "handwritten/stellar_ch",
+				"type": "image/png",
+				"aliases": [
+					"ぐーぺこ",
+					"ぐ〜ぺこ"
+				],
+				"license": "Copyright 2025, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "stellar_ch_handwritten_squared_ilikeit.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "stellar_ch_handwritten_squared_ilikeit",
+				"category": "handwritten/stellar_ch",
+				"type": "image/png",
+				"aliases": [
+					"これすき",
+					"koresuki"
+				],
+				"license": "Copyright 2025, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "stellar_ch_handwritten_squared_itwillbeaskedintheexam.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "stellar_ch_handwritten_squared_itwillbeaskedintheexam",
+				"category": "handwritten/stellar_ch",
+				"type": "image/png",
+				"aliases": [
+					"ここテストに出ます",
+					"kokotestnidemasu"
+				],
+				"license": "Copyright 2025, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "stellar_ch_handwritten_squared_meow.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "stellar_ch_handwritten_squared_meow",
+				"category": "handwritten/stellar_ch",
+				"type": "image/png",
+				"aliases": [
+					"にゃん",
+					"nyan"
+				],
+				"license": "Copyright 2025, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "stellar_ch_handwritten_squared_moooorning.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "stellar_ch_handwritten_squared_moooorning",
+				"category": "handwritten/stellar_ch",
+				"type": "image/png",
+				"aliases": [
+					"あさ〜〜",
+					"asa"
+				],
+				"license": "Copyright 2025, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "stellar_ch_handwritten_squared_sawinkojiki.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "stellar_ch_handwritten_squared_sawinkojiki",
+				"category": "handwritten/stellar_ch",
+				"type": "image/png",
+				"aliases": [
+					"古事記にあったわ",
+					"kojikiniattawa"
+				],
+				"license": "Copyright 2025, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "stellar_ch_handwritten_squared_toocute.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "stellar_ch_handwritten_squared_toocute",
+				"category": "handwritten/stellar_ch",
+				"type": "image/png",
+				"aliases": [
+					"かわいいが過ぎる",
+					"kawaiigasugiru"
+				],
+				"license": "Copyright 2025, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"localOnly": false,
+				"isSensitive": false
+			}
+		},
+		{
+			"fileName": "stellar_ch_handwritten_squared_wakeyouup.png",
+			"downloaded": true,
+			"emoji": {
+				"host": null,
+				"name": "stellar_ch_handwritten_squared_wakeyouup",
+				"category": "handwritten/stellar_ch",
+				"type": "image/png",
+				"aliases": [
+					"おきて",
+					"okite"
 				],
 				"license": "Copyright 2025, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
 				"localOnly": false,
