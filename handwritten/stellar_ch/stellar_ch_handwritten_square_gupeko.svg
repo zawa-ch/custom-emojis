@@ -26,7 +26,7 @@
 				<dc:date>2025-06-02</dc:date>
 				<dc:creator><cc:Agent><dc:title>zawa-ch.</dc:title></cc:Agent></dc:creator>
 				<dc:rights><cc:Agent><dc:title>Copyright 2025 zawa-ch.</dc:title></cc:Agent></dc:rights>
-				<dc:identifier>stellar_ch_handwritten_squared_gupeko</dc:identifier>
+				<dc:identifier>stellar_ch_handwritten_square_gupeko</dc:identifier>
 				<dc:language>ja_JP</dc:language>
 			</cc:Work>
 		</rdf:RDF>
@@ -78,7 +78,7 @@
 			width="33.737164"
 			height="33.737164"
 			preserveAspectRatio="none"
-			xlink:href="stellar_ch_handwritten_squared_gupeko.png"
+			xlink:href="stellar_ch_handwritten_square_gupeko.png"
 		/>
 		<path
 			display="none"
