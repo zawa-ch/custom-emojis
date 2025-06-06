@@ -275,7 +275,9 @@
 				"name": "ledmatrix_r16_nextis",
 				"category": "LEDMatrix",
 				"type": "image/png",
-				"aliases": [],
+				"aliases": [
+					"次は"
+				],
 				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
 				"localOnly": false,
 				"isSensitive": false
@@ -289,7 +291,10 @@
 				"name": "ledmatrix_r16_nextomaeda",
 				"category": "LEDMatrix",
 				"type": "image/png",
-				"aliases": [],
+				"aliases": [
+					"次はオマエダ",
+					"小前田"
+				],
 				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
 				"localOnly": false,
 				"isSensitive": false
