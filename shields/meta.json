@@ -13,7 +13,7 @@
 					"起こさないでください",
 					"Do not disturb"
 				],
-				"license": "Copyright 2024, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
 				"localOnly": false,
 				"isSensitive": false
 			}
@@ -29,7 +29,7 @@
 				"aliases": [
 					"Now Playing"
 				],
-				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
 				"localOnly": false,
 				"isSensitive": false
 			}
@@ -43,7 +43,7 @@
 				"category": "shields/ContentWarning",
 				"type": "image/png",
 				"aliases": [],
-				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
 				"localOnly": false,
 				"isSensitive": false
 			}
@@ -57,7 +57,7 @@
 				"category": "shields/ContentWarning",
 				"type": "image/png",
 				"aliases": [],
-				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
 				"localOnly": false,
 				"isSensitive": false
 			}
@@ -71,7 +71,7 @@
 				"category": "shields/ContentWarning",
 				"type": "image/png",
 				"aliases": [],
-				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
 				"localOnly": false,
 				"isSensitive": false
 			}
@@ -85,7 +85,7 @@
 				"category": "shields/ContentWarning",
 				"type": "image/png",
 				"aliases": [],
-				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
 				"localOnly": false,
 				"isSensitive": false
 			}
@@ -99,7 +99,7 @@
 				"category": "shields/ContentWarning",
 				"type": "image/png",
 				"aliases": [],
-				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
 				"localOnly": false,
 				"isSensitive": false
 			}
@@ -113,7 +113,7 @@
 				"category": "shields/ContentWarning",
 				"type": "image/png",
 				"aliases": [],
-				"license": "Copyright 2023, zawa-ch. licensed under MIT License (http://www.opensource.org/licenses/mit-license.php)",
+				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
 				"localOnly": false,
 				"isSensitive": false
 			}

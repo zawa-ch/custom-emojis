@@ -24,7 +24,7 @@
 					<cc:Agent><dc:title>zawa-ch.</dc:title></cc:Agent>
 				</dc:creator>
 				<cc:license
-					 rdf:resource="http://www.opensource.org/licenses/mit-license.php" />
+					 rdf:resource="https://www.apache.org/licenses/LICENSE-2.0" />
 			</cc:Work>
 		</rdf:RDF>
 	</metadata>

@@ -21,7 +21,7 @@
 	<metadata>
 		<rdf:RDF>
 			<cc:Work rdf:about="">
-				<cc:license rdf:resource="http://www.opensource.org/licenses/mit-license.php" />
+				<cc:license rdf:resource="https://www.apache.org/licenses/LICENSE-2.0" />
 				<dc:title>おきて</dc:title>
 				<dc:date>2025-06-02</dc:date>
 				<dc:creator><cc:Agent><dc:title>zawa-ch.</dc:title></cc:Agent></dc:creator>
