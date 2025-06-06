@@ -2,15 +2,16 @@
 	"metaVersion": 2,
 	"emojis": [
 		{
-			"fileName": "anadultmalecriesinsuchapitifulvoice.png",
+			"fileName": "darwinishere_rhinoceros_subtitle.png",
 			"downloaded": true,
 			"emoji": {
 				"host": null,
-				"name": "anadultmalecriesinsuchapitifulvoice",
-				"category": "subtitles",
+				"name": "darwinishere_rhinoceros_subtitle",
+				"category": "text/Subtitle-ja",
 				"type": "image/png",
 				"aliases": [
-					"大人のオスがこんな情けない声で鳴くんですね。"
+					"大人のオスがこんな情けない声で鳴くんですね。",
+					"otonanoosugakonnnanasakenaikoedenakundesune"
 				],
 				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
 				"localOnly": false,
@@ -18,15 +19,16 @@
 			}
 		},
 		{
-			"fileName": "thisishowitisdeliveredtous.png",
+			"fileName": "themaking_closing_subtitle.png",
 			"downloaded": true,
 			"emoji": {
 				"host": null,
-				"name": "thisishowitisdeliveredtous",
-				"category": "subtitles",
+				"name": "themaking_closing_subtitle",
+				"category": "text/Subtitle-ja",
 				"type": "image/png",
 				"aliases": [
-					"こうして私たちのもとに届けられる"
+					"こうして私たちのもとに届けられる",
+					"koushitewatashitatinomotonitodokerareru"
 				],
 				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
 				"localOnly": false,
@@ -34,15 +36,16 @@
 			}
 		},
 		{
-			"fileName": "thiswillmakeitahangoroshi.png",
+			"fileName": "hangoroshi_dialect_subtitle.png",
 			"downloaded": true,
 			"emoji": {
 				"host": null,
-				"name": "thiswillmakeitahangoroshi",
-				"category": "subtitles",
+				"name": "hangoroshi_dialect_subtitle",
+				"category": "text/Subtitle-ja",
 				"type": "image/png",
 				"aliases": [
-					"これではんごろしにします"
+					"これではんごろしにします",
+					"koredehangoroshinishimasu"
 				],
 				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
 				"localOnly": false,
