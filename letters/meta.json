@@ -36,6 +36,17 @@
 		"isSensitive": true
 	},
 	{
+		"name": "rotating_threedimensional_gold_igyo",
+		"category": "Letters/偉業-ja",
+		"type": "image/apng",
+		"aliases": [
+			"偉業"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "square_daitaisou",
 		"category": "Letters/square-ja",
 		"type": "image/png",

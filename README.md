@@ -7,9 +7,12 @@ Misskeyのために製作したカスタム絵文字
 必要なソフトウェアがインストールされていることを確認してください。
 以下のソフトウェアが必要になります:
 
+- bash
 - GNU Make
 - jq
 - resvg
+- Blender
+  (PATH内に`blender`, `blender-4.{0,1,2,3,4}`が存在する、もしくはFlatpakで`org.blender.Blender`が利用可能である必要があります)
 - Inkscape
 - Glaxnimate
   (PATH内に`glaxnimate`が存在する、もしくはFlatpakで`org.mattbas.Glaxnimate`が利用可能である必要があります)
