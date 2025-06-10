@@ -34,7 +34,8 @@ LEDMatrix.assets= \
   LEDMatrix/ledmatrix_ev_upwardsarrow.png \
   LEDMatrix/ledmatrix_ev_upwardsarrow_a.png \
   LEDMatrix/ledmatrix_r16_nextis.png \
-  LEDMatrix/ledmatrix_r16_nextomaeda.png
+  LEDMatrix/ledmatrix_r16_nextomaeda.png \
+  LEDMatrix/ledmatrix_r16_notification.png
 
 LEDMatrix.assets: $(LEDMatrix.assets)
 
