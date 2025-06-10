@@ -14,12 +14,20 @@ clean: \
   militarygrade.clean \
   shields.clean
 
+assets: \
+  handwritten.stellar_ch.assets \
+  LEDMatrix.assets \
+  letters.assets \
+  militarygrade.assets \
+  shields.assets
+
 help:
 	@echo "build mi-emojis"
 	@echo ""
 	@echo "Meta targets:"
-	@echo "* all   | build all targets"
-	@echo "* clean | clean build directory"
+	@echo "* all    | build all targets"
+	@echo "* assets | build all assets"
+	@echo "* clean  | clean build directory"
 	@echo "Individual targets:"
 	@echo "> handwritten.stellar_ch LEDMatrix letters militarygrade shields"
 	@echo "* <target>.clean | clean target"
