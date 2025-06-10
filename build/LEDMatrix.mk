@@ -27,9 +27,32 @@ LEDMatrix.assets= \
   LEDMatrix/ledmatrix_ev_downwardsarrow.png \
   LEDMatrix/ledmatrix_ev_downwardsarrow_a.png \
   LEDMatrix/ledmatrix_ev_fullblock.png \
+  LEDMatrix/ledmatrix_ev_latincapitallettera.png \
   LEDMatrix/ledmatrix_ev_latincapitalletterb.png \
+  LEDMatrix/ledmatrix_ev_latincapitalletterc.png \
+  LEDMatrix/ledmatrix_ev_latincapitalletterd.png \
+  LEDMatrix/ledmatrix_ev_latincapitallettere.png \
+  LEDMatrix/ledmatrix_ev_latincapitalletterf.png \
   LEDMatrix/ledmatrix_ev_latincapitalletterg.png \
+  LEDMatrix/ledmatrix_ev_latincapitalletterh.png \
+  LEDMatrix/ledmatrix_ev_latincapitalletteri.png \
+  LEDMatrix/ledmatrix_ev_latincapitalletterj.png \
+  LEDMatrix/ledmatrix_ev_latincapitalletterk.png \
+  LEDMatrix/ledmatrix_ev_latincapitalletterl.png \
+  LEDMatrix/ledmatrix_ev_latincapitalletterm.png \
+  LEDMatrix/ledmatrix_ev_latincapitallettern.png \
+  LEDMatrix/ledmatrix_ev_latincapitallettero.png \
+  LEDMatrix/ledmatrix_ev_latincapitalletterp.png \
+  LEDMatrix/ledmatrix_ev_latincapitalletterq.png \
   LEDMatrix/ledmatrix_ev_latincapitalletterr.png \
+  LEDMatrix/ledmatrix_ev_latincapitalletters.png \
+  LEDMatrix/ledmatrix_ev_latincapitallettert.png \
+  LEDMatrix/ledmatrix_ev_latincapitalletteru.png \
+  LEDMatrix/ledmatrix_ev_latincapitalletterv.png \
+  LEDMatrix/ledmatrix_ev_latincapitalletterw.png \
+  LEDMatrix/ledmatrix_ev_latincapitalletterx.png \
+  LEDMatrix/ledmatrix_ev_latincapitallettery.png \
+  LEDMatrix/ledmatrix_ev_latincapitalletterz.png \
   LEDMatrix/ledmatrix_ev_space.png \
   LEDMatrix/ledmatrix_ev_upwardsarrow.png \
   LEDMatrix/ledmatrix_ev_upwardsarrow_a.png \

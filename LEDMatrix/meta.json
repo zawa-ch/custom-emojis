@@ -117,11 +117,56 @@
 		"isSensitive": false
 	},
 	{
+		"name": "ledmatrix_ev_latincapitallettera",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "ledmatrix_ev_latincapitalletterb",
 		"category": "LEDMatrix/Elevator",
 		"type": "image/png",
 		"aliases": [],
 		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitalletterc",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitalletterd",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitallettere",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitalletterf",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -135,11 +180,173 @@
 		"isSensitive": false
 	},
 	{
+		"name": "ledmatrix_ev_latincapitalletterh",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitalletteri",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitalletterj",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitalletterk",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitalletterl",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitalletterm",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitallettern",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitallettero",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitalletterp",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitalletterq",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "ledmatrix_ev_latincapitalletterr",
 		"category": "LEDMatrix/Elevator",
 		"type": "image/png",
 		"aliases": [],
 		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitalletters",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitallettert",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitalletteru",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitalletterv",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitalletterw",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitalletterx",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitallettery",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitalletterz",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
 		"localOnly": false,
 		"isSensitive": false
 	},
