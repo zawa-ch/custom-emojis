@@ -53,68 +53,16 @@ LEDMatrix/ledmatrix_r16_%.png: ../LEDMatrix/R16/ledmatrix_r16_%.svg .LEDMatrix.p
 	resvg -z 4.0 --dpi 384 "$<" "$@"
 	optipng -q --fix "$@"
 
-LEDMatrix/ledmatrix_ev_downwardsarrow_a.png: .LEDMatrix.pre LEDMatrix/ledmatrix_ev_downwardsarrow_a/01.png LEDMatrix/ledmatrix_ev_downwardsarrow_a/02.png LEDMatrix/ledmatrix_ev_downwardsarrow_a/03.png LEDMatrix/ledmatrix_ev_downwardsarrow_a/04.png LEDMatrix/ledmatrix_ev_downwardsarrow_a/05.png LEDMatrix/ledmatrix_ev_downwardsarrow_a/06.png
+LEDMatrix/ledmatrix_ev_downwardsarrow_a.png: .LEDMatrix.pre LEDMatrix/ledmatrix_ev_downwardsarrow_a/0.png
 	apngasm -F -d 1:4 -o LEDMatrix/ledmatrix_ev_downwardsarrow_a.png LEDMatrix/ledmatrix_ev_downwardsarrow_a/*.png
 
-LEDMatrix/ledmatrix_ev_downwardsarrow_a/01.png: .LEDMatrix.pre ../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg
+LEDMatrix/ledmatrix_ev_downwardsarrow_a/0.png: .LEDMatrix.pre ../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow_a.rawr
 	mkdir -p LEDMatrix/ledmatrix_ev_downwardsarrow_a
-	inkscape -o "LEDMatrix/ledmatrix_ev_downwardsarrow_a/01.png" --export-page=1 -d 384 "../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg"
-	optipng -q LEDMatrix/ledmatrix_ev_downwardsarrow_a/01.png
+	.script/fe_glaxnimate.sh -r LEDMatrix/ledmatrix_ev_downwardsarrow_a/.png --render-format png --frame all ../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow_a.rawr
 
-LEDMatrix/ledmatrix_ev_downwardsarrow_a/02.png: .LEDMatrix.pre ../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg
-	mkdir -p LEDMatrix/ledmatrix_ev_downwardsarrow_a
-	inkscape -o "LEDMatrix/ledmatrix_ev_downwardsarrow_a/02.png" --export-page=2 -d 384 "../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg"
-	optipng -q LEDMatrix/ledmatrix_ev_downwardsarrow_a/02.png
-
-LEDMatrix/ledmatrix_ev_downwardsarrow_a/03.png: .LEDMatrix.pre ../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg
-	mkdir -p LEDMatrix/ledmatrix_ev_downwardsarrow_a
-	inkscape -o "LEDMatrix/ledmatrix_ev_downwardsarrow_a/03.png" --export-page=3 -d 384 "../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg"
-	optipng -q LEDMatrix/ledmatrix_ev_downwardsarrow_a/03.png
-
-LEDMatrix/ledmatrix_ev_downwardsarrow_a/04.png: .LEDMatrix.pre ../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg
-	mkdir -p LEDMatrix/ledmatrix_ev_downwardsarrow_a
-	inkscape -o "LEDMatrix/ledmatrix_ev_downwardsarrow_a/04.png" --export-page=4 -d 384 "../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg"
-	optipng -q LEDMatrix/ledmatrix_ev_downwardsarrow_a/04.png
-
-LEDMatrix/ledmatrix_ev_downwardsarrow_a/05.png: .LEDMatrix.pre ../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg
-	mkdir -p LEDMatrix/ledmatrix_ev_downwardsarrow_a
-	inkscape -o "LEDMatrix/ledmatrix_ev_downwardsarrow_a/05.png" --export-page=5 -d 384 "../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg"
-	optipng -q LEDMatrix/ledmatrix_ev_downwardsarrow_a/05.png
-
-LEDMatrix/ledmatrix_ev_downwardsarrow_a/06.png: .LEDMatrix.pre ../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg
-	mkdir -p LEDMatrix/ledmatrix_ev_downwardsarrow_a
-	inkscape -o "LEDMatrix/ledmatrix_ev_downwardsarrow_a/06.png" --export-page=6 -d 384 "../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg"
-	optipng -q LEDMatrix/ledmatrix_ev_downwardsarrow_a/06.png
-
-LEDMatrix/ledmatrix_ev_upwardsarrow_a.png: .LEDMatrix.pre LEDMatrix/ledmatrix_ev_upwardsarrow_a/01.png LEDMatrix/ledmatrix_ev_upwardsarrow_a/02.png LEDMatrix/ledmatrix_ev_upwardsarrow_a/03.png LEDMatrix/ledmatrix_ev_upwardsarrow_a/04.png LEDMatrix/ledmatrix_ev_upwardsarrow_a/05.png LEDMatrix/ledmatrix_ev_upwardsarrow_a/06.png
+LEDMatrix/ledmatrix_ev_upwardsarrow_a.png: .LEDMatrix.pre LEDMatrix/ledmatrix_ev_upwardsarrow_a/0.png
 	apngasm -F -d 1:4 -o LEDMatrix/ledmatrix_ev_upwardsarrow_a.png LEDMatrix/ledmatrix_ev_upwardsarrow_a/*.png
 
-LEDMatrix/ledmatrix_ev_upwardsarrow_a/01.png: .LEDMatrix.pre ../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg
+LEDMatrix/ledmatrix_ev_upwardsarrow_a/0.png: .LEDMatrix.pre ../LEDMatrix/Elevator/ledmatrix_ev_upwardsarrow_a.rawr
 	mkdir -p LEDMatrix/ledmatrix_ev_upwardsarrow_a
-	inkscape -o "LEDMatrix/ledmatrix_ev_upwardsarrow_a/01.png" --export-page=1 -d 384 "../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg"
-	optipng -q LEDMatrix/ledmatrix_ev_upwardsarrow_a/01.png
-
-LEDMatrix/ledmatrix_ev_upwardsarrow_a/02.png: .LEDMatrix.pre ../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg
-	mkdir -p LEDMatrix/ledmatrix_ev_upwardsarrow_a
-	inkscape -o "LEDMatrix/ledmatrix_ev_upwardsarrow_a/02.png" --export-page=2 -d 384 "../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg"
-	optipng -q LEDMatrix/ledmatrix_ev_upwardsarrow_a/02.png
-
-LEDMatrix/ledmatrix_ev_upwardsarrow_a/03.png: .LEDMatrix.pre ../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg
-	mkdir -p LEDMatrix/ledmatrix_ev_upwardsarrow_a
-	inkscape -o "LEDMatrix/ledmatrix_ev_upwardsarrow_a/03.png" --export-page=3 -d 384 "../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg"
-	optipng -q LEDMatrix/ledmatrix_ev_upwardsarrow_a/03.png
-
-LEDMatrix/ledmatrix_ev_upwardsarrow_a/04.png: .LEDMatrix.pre ../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg
-	mkdir -p LEDMatrix/ledmatrix_ev_upwardsarrow_a
-	inkscape -o "LEDMatrix/ledmatrix_ev_upwardsarrow_a/04.png" --export-page=4 -d 384 "../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg"
-	optipng -q LEDMatrix/ledmatrix_ev_upwardsarrow_a/04.png
-
-LEDMatrix/ledmatrix_ev_upwardsarrow_a/05.png: .LEDMatrix.pre ../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg
-	mkdir -p LEDMatrix/ledmatrix_ev_upwardsarrow_a
-	inkscape -o "LEDMatrix/ledmatrix_ev_upwardsarrow_a/05.png" --export-page=5 -d 384 "../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg"
-	optipng -q LEDMatrix/ledmatrix_ev_upwardsarrow_a/05.png
-
-LEDMatrix/ledmatrix_ev_upwardsarrow_a/06.png: .LEDMatrix.pre ../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg
-	mkdir -p LEDMatrix/ledmatrix_ev_upwardsarrow_a
-	inkscape -o "LEDMatrix/ledmatrix_ev_upwardsarrow_a/06.png" --export-page=6 -d 384 "../LEDMatrix/Elevator/ledmatrix_ev_downwardsarrow.svg"
-	optipng -q LEDMatrix/ledmatrix_ev_upwardsarrow_a/06.png
+	.script/fe_glaxnimate.sh -r LEDMatrix/ledmatrix_ev_upwardsarrow_a/.png --render-format png --frame all ../LEDMatrix/Elevator/ledmatrix_ev_upwardsarrow_a.rawr
