@@ -58,6 +58,17 @@
 		"isSensitive": false
 	},
 	{
+		"name": "square_meijitsutomonitaikin",
+		"category": "Letters/square-ja",
+		"type": "image/apng",
+		"aliases": [
+			"名実ともに退勤"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "square_nikutabeyoniku",
 		"category": "Letters/square-ja",
 		"type": "image/png",

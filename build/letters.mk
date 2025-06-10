@@ -16,6 +16,7 @@ letters.assets= \
   letters/hangoroshi_dialect_subtitle.png \
   letters/square_daitaisou.png \
   letters/square_issyoniblackholejikkenshiyo.png \
+  letters/square_meijitsutomonitaikin.png \
   letters/square_nikutabeyoniku.png \
   letters/square_omaenitaihojougadeteiru.png
 
@@ -27,6 +28,13 @@ letters.zip: $(letters.assets) letters/meta.json
 letters/meta.json: ../letters/meta.json .letters.pre
 	.script/build_metadata.sh "$<" > "$@"
 
-letters/%.png: ../letters/%.svg .letters.pre
+letters/%.png:: ../letters/%.svg .letters.pre
 	resvg -z 4.0 --dpi 384 "$<" "$@"
 	optipng -q --fix "$@"
+
+letters/square_meijitsutomonitaikin.png: .letters.pre letters/square_meijitsutomonitaikin/00.png
+	apngasm -F -d 1:24 -o letters/square_meijitsutomonitaikin.png letters/square_meijitsutomonitaikin/*.png
+
+letters/square_meijitsutomonitaikin/00.png: .letters.pre ../letters/square_meijitsutomonitaikin.rawr
+	mkdir -p letters/square_meijitsutomonitaikin
+	.script/fe_glaxnimate.sh -r letters/square_meijitsutomonitaikin/.png --render-format png --frame all ../letters/square_meijitsutomonitaikin.rawr
