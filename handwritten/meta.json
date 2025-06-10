@@ -162,6 +162,18 @@
 		"isSensitive": false
 	},
 	{
+		"name": "stellar_ch_handwritten_square_gutenmogen",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"ぐーてんもーげん",
+			"Gutenmorgen"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "stellar_ch_handwritten_square_karehanomimono",
 		"category": "handwritten/stellar_ch",
 		"type": "image/png",

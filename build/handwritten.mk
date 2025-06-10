@@ -28,6 +28,7 @@ handwritten.assets= \
   handwritten/stellar_ch_handwritten_shigotohayasugimondai.png \
   handwritten/stellar_ch_handwritten_square_asa.png \
   handwritten/stellar_ch_handwritten_square_gupeko.png \
+  handwritten/stellar_ch_handwritten_square_gutenmogen.png \
   handwritten/stellar_ch_handwritten_square_karehanomimono.png \
   handwritten/stellar_ch_handwritten_square_kojikiniattawa.png \
   handwritten/stellar_ch_handwritten_square_kawaiigasugiru.png \
