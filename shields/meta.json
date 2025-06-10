@@ -23,6 +23,18 @@
 		"isSensitive": false
 	},
 	{
+		"name": "red_power_blue_word",
+		"category": "shields",
+		"type": "image/png",
+		"aliases": [
+			"PowerWord",
+			"パワーワード"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "warning_nsfw",
 		"category": "shields/ContentWarning",
 		"type": "image/png",

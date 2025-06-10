@@ -16,6 +16,7 @@ shields.check: shields
 shields.assets= \
   shields/donotdisturb.png \
   shields/nowplaying.png \
+  shields/red_power_blue_word.png \
   shields/warning_nsfw.png \
   shields/warning_r15.png \
   shields/warning_r18.png \
