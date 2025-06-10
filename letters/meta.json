@@ -1,5 +1,17 @@
 [
 	{
+		"name": "black_squared_neon_igyo",
+		"category": "Letters/偉業-ja",
+		"type": "image/png",
+		"aliases": [
+			"偉業",
+			"igyo_neon"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "darwinishere_rhinoceros_subtitle",
 		"category": "Letters/subtitle-ja",
 		"type": "image/png",

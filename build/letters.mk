@@ -14,6 +14,7 @@ letters.check: letters
 	.script/check_metadata_integrity.sh "letters"
 
 letters.assets= \
+  letters/black_squared_neon_igyo.png \
   letters/darwinishere_rhinoceros_subtitle.png \
   letters/themaking_closing_subtitle.png \
   letters/hangoroshi_dialect_subtitle.png \
@@ -35,6 +36,13 @@ letters/meta.json: ../letters/meta.json .letters.pre
 letters/%.png:: ../letters/%.svg .letters.pre
 	resvg -z 4.0 --dpi 384 "$<" "$@"
 	optipng -q --fix "$@"
+
+letters/black_squared_neon_igyo.png: .letters.pre letters/black_squared_neon_igyo/0.png
+	apngasm -F -d 1:24 -o letters/black_squared_neon_igyo.png letters/black_squared_neon_igyo/*.png
+
+letters/black_squared_neon_igyo/0.png: .letters.pre ../letters/black_squared_neon_igyo.rawr
+	mkdir -p letters/black_squared_neon_igyo
+	.script/fe_glaxnimate.sh -r letters/black_squared_neon_igyo/.png --render-format png --frame all ../letters/black_squared_neon_igyo.rawr
 
 letters/rotating_threedimensional_gold_igyo.png: .letters.pre letters/rotating_threedimensional_gold_igyo/00.png
 	apngasm -F -d 1:24 -o letters/rotating_threedimensional_gold_igyo.png letters/rotating_threedimensional_gold_igyo/*.png
