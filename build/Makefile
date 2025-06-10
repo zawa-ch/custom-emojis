@@ -1,28 +1,28 @@
 .PHONY: all clean help
 
 all: \
-  handwritten.stellar_ch \
+  handwritten \
   LEDMatrix \
   letters \
   militarygrade \
   shields
 
 clean: \
-  handwritten.stellar_ch.clean \
+  handwritten.clean \
   LEDMatrix.clean \
   letters.clean \
   militarygrade.clean \
   shields.clean
 
 assets: \
-  handwritten.stellar_ch.assets \
+  handwritten.assets \
   LEDMatrix.assets \
   letters.assets \
   militarygrade.assets \
   shields.assets
 
 check: \
-  handwritten.stellar_ch.check \
+  handwritten.check \
   LEDMatrix.check \
   letters.check \
   militarygrade.check \
@@ -37,12 +37,12 @@ help:
 	@echo "* check  | check metadata intefrity"
 	@echo "* clean  | clean build directory"
 	@echo "Individual targets:"
-	@echo "> handwritten.stellar_ch LEDMatrix letters militarygrade shields"
+	@echo "> handwritten LEDMatrix letters militarygrade shields"
 	@echo "* <target>.assets | build asset only"
 	@echo "* <target>.check  | check metadata integrity"
 	@echo "* <target>.clean  | clean target"
 
-include handwritten.stellar_ch.mk
+include handwritten.mk
 include LEDMatrix.mk
 include letters.mk
 include militarygrade.mk
