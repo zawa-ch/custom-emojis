@@ -1,7 +1,7 @@
 [
 	{
 		"name": "darwinishere_rhinoceros_subtitle",
-		"category": "text/Subtitle-ja",
+		"category": "Letters/subtitle-ja",
 		"type": "image/png",
 		"aliases": [
 			"大人のオスがこんな情けない声で鳴くんですね。",
@@ -13,7 +13,7 @@
 	},
 	{
 		"name": "themaking_closing_subtitle",
-		"category": "text/Subtitle-ja",
+		"category": "Letters/subtitle-ja",
 		"type": "image/png",
 		"aliases": [
 			"こうして私たちのもとに届けられる",
@@ -25,7 +25,7 @@
 	},
 	{
 		"name": "hangoroshi_dialect_subtitle",
-		"category": "text/Subtitle-ja",
+		"category": "Letters/subtitle-ja",
 		"type": "image/png",
 		"aliases": [
 			"これではんごろしにします",
