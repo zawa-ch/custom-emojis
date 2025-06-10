@@ -38,7 +38,7 @@ letters/%.png:: ../letters/%.svg .letters.pre
 	optipng -q --fix "$@"
 
 letters/black_squared_neon_igyo.png: .letters.pre letters/black_squared_neon_igyo/0.png
-	apngasm -F -d 1:24 -o letters/black_squared_neon_igyo.png letters/black_squared_neon_igyo/*.png
+	apngasm -F -d 1:8 -o letters/black_squared_neon_igyo.png letters/black_squared_neon_igyo/*.png
 
 letters/black_squared_neon_igyo/0.png: .letters.pre ../letters/black_squared_neon_igyo.rawr
 	mkdir -p letters/black_squared_neon_igyo
