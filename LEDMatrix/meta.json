@@ -1,318 +1,205 @@
-{
-	"metaVersion": 2,
-	"emojis": [
-		{
-			"fileName": "ledmatrix_ev_digiteight.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_ev_digiteight",
-				"category": "LEDMatrix",
-				"type": "image/png",
-				"aliases": [],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "ledmatrix_ev_digitfive.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_ev_digitfive",
-				"category": "LEDMatrix",
-				"type": "image/png",
-				"aliases": [],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "ledmatrix_ev_digitfour.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_ev_digitfour",
-				"category": "LEDMatrix",
-				"type": "image/png",
-				"aliases": [],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "ledmatrix_ev_digitnine.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_ev_digitnine",
-				"category": "LEDMatrix",
-				"type": "image/png",
-				"aliases": [],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "ledmatrix_ev_digitone.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_ev_digitone",
-				"category": "LEDMatrix",
-				"type": "image/png",
-				"aliases": [],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "ledmatrix_ev_digitseven.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_ev_digitseven",
-				"category": "LEDMatrix",
-				"type": "image/png",
-				"aliases": [],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "ledmatrix_ev_digitsix.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_ev_digitsix",
-				"category": "LEDMatrix",
-				"type": "image/png",
-				"aliases": [],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "ledmatrix_ev_digitthree.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_ev_digitthree",
-				"category": "LEDMatrix",
-				"type": "image/png",
-				"aliases": [],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "ledmatrix_ev_digittwo.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_ev_digittwo",
-				"category": "LEDMatrix",
-				"type": "image/png",
-				"aliases": [],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "ledmatrix_ev_digitzero.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_ev_digitzero",
-				"category": "LEDMatrix",
-				"type": "image/png",
-				"aliases": [],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "ledmatrix_ev_downwardsarrow.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_ev_downwardsarrow",
-				"category": "LEDMatrix",
-				"type": "image/png",
-				"aliases": [],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "ledmatrix_ev_downwardsarrow_a.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_ev_downwardsarrow_a",
-				"category": "LEDMatrix",
-				"type": "image/apng",
-				"aliases": [],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "ledmatrix_ev_fullblock.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_ev_fullblock",
-				"category": "LEDMatrix",
-				"type": "image/png",
-				"aliases": [],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "ledmatrix_ev_latincapitalletterb.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_ev_latincapitalletterb",
-				"category": "LEDMatrix",
-				"type": "image/png",
-				"aliases": [],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "ledmatrix_ev_latincapitalletterg.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_ev_latincapitalletterg",
-				"category": "LEDMatrix",
-				"type": "image/png",
-				"aliases": [],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "ledmatrix_ev_latincapitalletterr.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_ev_latincapitalletterr",
-				"category": "LEDMatrix",
-				"type": "image/png",
-				"aliases": [],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "ledmatrix_ev_space.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_ev_space",
-				"category": "LEDMatrix",
-				"type": "image/png",
-				"aliases": [],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "ledmatrix_ev_upwardsarrow.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_ev_upwardsarrow",
-				"category": "LEDMatrix",
-				"type": "image/png",
-				"aliases": [],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "ledmatrix_ev_upwardsarrow_a.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_ev_upwardsarrow_a",
-				"category": "LEDMatrix",
-				"type": "image/apng",
-				"aliases": [],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "ledmatrix_r16_nextis.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_r16_nextis",
-				"category": "LEDMatrix",
-				"type": "image/png",
-				"aliases": [
-					"次は"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "ledmatrix_r16_nextomaeda.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_r16_nextomaeda",
-				"category": "LEDMatrix",
-				"type": "image/png",
-				"aliases": [
-					"次はオマエダ",
-					"小前田"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "ledmatrix_r16_notification.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "ledmatrix_r16_notification",
-				"category": "LEDMatrix",
-				"type": "image/png",
-				"aliases": [],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		}
-	]
-}
+[
+	{
+		"name": "ledmatrix_ev_digiteight",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_digitfive",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_digitfour",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_digitnine",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_digitone",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_digitseven",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_digitsix",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_digitthree",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_digittwo",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_digitzero",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_downwardsarrow",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_downwardsarrow_a",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_fullblock",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitalletterb",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitalletterg",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_latincapitalletterr",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_space",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_upwardsarrow",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_ev_upwardsarrow_a",
+		"category": "LEDMatrix/Elevator",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_r16_nextis",
+		"category": "LEDMatrix/Round16dot",
+		"type": "image/png",
+		"aliases": [
+			"次は"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_r16_nextomaeda",
+		"category": "LEDMatrix/Round16dot",
+		"type": "image/png",
+		"aliases": [
+			"次はオマエダ",
+			"小前田"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ledmatrix_r16_notification",
+		"category": "LEDMatrix/Round16dot",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	}
+]

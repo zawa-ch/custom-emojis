@@ -1,69 +1,46 @@
-{
-	"metaVersion": 2,
-	"emojis": [
-		{
-			"fileName": "square_daitaisou.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "square_daitaisou",
-				"category": "square",
-				"type": "image/png",
-				"aliases": [
-					"だいたいそう"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "square_issyoniblackholejikkenshiyo.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "square_issyoniblackholejikkenshiyo",
-				"category": "square",
-				"type": "image/png",
-				"aliases": [
-					"一緒にブラックホール実験しよ…？"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "square_nikutabeyoniku.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "square_nikutabeyoniku",
-				"category": "square",
-				"type": "image/png",
-				"aliases": [
-					"にくたべよにく"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "square_omaenitaihojougadeteiru.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "square_omaenitaihojougadeteiru",
-				"category": "square",
-				"type": "image/png",
-				"aliases": [
-					"お前に逮捕状が出ている"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		}
-	]
-}
+[
+	{
+		"name": "square_daitaisou",
+		"category": "square",
+		"type": "image/png",
+		"aliases": [
+			"だいたいそう"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_issyoniblackholejikkenshiyo",
+		"category": "square",
+		"type": "image/png",
+		"aliases": [
+			"一緒にブラックホール実験しよ…？"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_nikutabeyoniku",
+		"category": "square",
+		"type": "image/png",
+		"aliases": [
+			"にくたべよにく"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_omaenitaihojougadeteiru",
+		"category": "square",
+		"type": "image/png",
+		"aliases": [
+			"お前に逮捕状が出ている"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	}
+]

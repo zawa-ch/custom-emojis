@@ -1,398 +1,275 @@
-{
-	"metaVersion": 2,
-	"emojis": [
-		{
-			"fileName": "stellar_ch_handwritten_erailtu.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_erailtu",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"えらいっ"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_gupekorin.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_gupekorin",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"ぐーぺこりん"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_invitingbed.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_invitingbed",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"ベッド",
-					"おいで",
-					"oide"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_jissekikaijo.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_jissekikaijo",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"実績解除",
-					"zissekikaijo"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_kawaii.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_kawaii",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"かわいい"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_kiskapula.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_kiskapula",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"Kiskapula",
-					"おはよう"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_kiskuluva.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_kiskuluva",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"Kiskuluva",
-					"おやすみ"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_netemorote.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_netemorote",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"寝てもろて"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_ohayo.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_ohayo",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"おはよー",
-					"おはよう"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_oyasumi.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_oyasumi",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"おやすみ"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_shigotogahayai.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_shigotogahayai",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"仕事が早い"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_shigotohayasugimondai.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_shigotohayasugimondai",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"仕事早すぎ問題"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_square_asa.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_square_asa",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"あさ〜〜",
-					"あさーー"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_square_gupeko.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_square_gupeko",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"ぐーぺこ",
-					"ぐ〜ぺこ"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_square_karehanomimono.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_square_karehanomimono",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"カレーは飲み物",
-					"kare-hanomimono"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_square_kojikiniattawa.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_square_kojikiniattawa",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"古事記にあったわ"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_square_kawaiigasugiru.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_square_kawaiigasugiru",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"かわいいが過ぎる"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_square_kokotesutonidemasu.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_square_kokotesutonidemasu",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"ここテストに出ます"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_square_koresuki.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_square_koresuki",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"これすき"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_square_nyan.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_square_nyan",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"にゃん"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_square_okite.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_square_okite",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"おきて"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_startdispute.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_startdispute",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"紛争をはじめる"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_sugoi.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_sugoi",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"すごい！！"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		},
-		{
-			"fileName": "stellar_ch_handwritten_taitaikin.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "stellar_ch_handwritten_taitaikin",
-				"category": "handwritten/stellar_ch",
-				"type": "image/png",
-				"aliases": [
-					"たいたいきーん"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		}
-	]
-}
+[
+	{
+		"name": "stellar_ch_handwritten_erailtu",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"えらいっ"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_gupekorin",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"ぐーぺこりん"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_invitingbed",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"ベッド",
+			"おいで",
+			"oide"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_jissekikaijo",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"実績解除",
+			"zissekikaijo"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_kawaii",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"かわいい"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_kiskapula",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"Kiskapula",
+			"おはよう"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_kiskuluva",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"Kiskuluva",
+			"おやすみ"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_netemorote",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"寝てもろて"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_ohayo",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"おはよー",
+			"おはよう"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_oyasumi",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"おやすみ"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_shigotogahayai",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"仕事が早い"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_shigotohayasugimondai",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"仕事早すぎ問題"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_square_asa",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"あさ〜〜",
+			"あさーー"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_square_gupeko",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"ぐーぺこ",
+			"ぐ〜ぺこ"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_square_karehanomimono",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"カレーは飲み物",
+			"kare-hanomimono"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_square_kojikiniattawa",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"古事記にあったわ"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_square_kawaiigasugiru",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"かわいいが過ぎる"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_square_kokotesutonidemasu",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"ここテストに出ます"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_square_koresuki",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"これすき"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_square_nyan",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"にゃん"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_square_okite",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"おきて"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2025 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_startdispute",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"紛争をはじめる"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_sugoi",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"すごい！！"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "stellar_ch_handwritten_taitaikin",
+		"category": "handwritten/stellar_ch",
+		"type": "image/png",
+		"aliases": [
+			"たいたいきーん"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0) or CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2023 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	}
+]

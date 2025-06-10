@@ -1,21 +1,13 @@
-{
-	"metaVersion": 2,
-	"emojis": [
-		{
-			"fileName": "meijitsutomonitaikin.png",
-			"downloaded": true,
-			"emoji": {
-				"host": null,
-				"name": "meijitsutomonitaikin",
-				"category": "square_animated",
-				"type": "image/apng",
-				"aliases": [
-					"名実ともに退勤"
-				],
-				"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
-				"localOnly": false,
-				"isSensitive": false
-			}
-		}
-	]
-}
+[
+	{
+		"name": "meijitsutomonitaikin",
+		"category": "square_animated",
+		"type": "image/apng",
+		"aliases": [
+			"名実ともに退勤"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2024 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	}
+]
