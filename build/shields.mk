@@ -1,4 +1,4 @@
-.PHONY: shields shields.assets shields.clean
+.PHONY: shields shields.assets shields.clean shields.check
 
 shields: shields.zip
 
@@ -9,6 +9,9 @@ shields: shields.zip
 shields.clean:
 	-rm shields.zip .shields.pre
 	-rm -rf shields/
+
+shields.check: shields
+	.script/check_metadata_integrity.sh "shields"
 
 shields.assets= \
   shields/donotdisturb.png \

@@ -1,4 +1,4 @@
-.PHONY: handwritten.stellar_ch handwritten.stellar_ch.assets handwritten.stellar_ch.clean
+.PHONY: handwritten.stellar_ch handwritten.stellar_ch.assets handwritten.stellar_ch.clean handwritten.stellar_ch.check
 
 handwritten.stellar_ch: handwritten.stellar_ch.zip
 
@@ -9,6 +9,9 @@ handwritten.stellar_ch: handwritten.stellar_ch.zip
 handwritten.stellar_ch.clean:
 	-rm handwritten.stellar_ch.zip .handwritten.stellar_ch.pre
 	-rm -rf handwritten/stellar_ch/ && rmdir handwritten/
+
+handwritten.stellar_ch.check: handwritten.stellar_ch
+	.script/check_metadata_integrity.sh "handwritten/stellar_ch"
 
 handwritten.stellar_ch.assets= \
   handwritten/stellar_ch/stellar_ch_handwritten_erailtu.png \

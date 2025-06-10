@@ -1,4 +1,4 @@
-.PHONY: letters letters.assets letters.clean
+.PHONY: letters letters.assets letters.clean letters.check
 
 letters: letters.zip
 
@@ -9,6 +9,9 @@ letters: letters.zip
 letters.clean:
 	-rm letters.zip .letters.pre
 	-rm -rf letters/
+
+letters.check: letters
+	.script/check_metadata_integrity.sh "letters"
 
 letters.assets= \
   letters/darwinishere_rhinoceros_subtitle.png \

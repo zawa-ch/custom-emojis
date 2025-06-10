@@ -1,4 +1,4 @@
-.PHONY: militarygrade militarygrade.assets militarygrade.clean
+.PHONY: militarygrade militarygrade.assets militarygrade.clean militarygrade.check
 
 militarygrade: militarygrade.zip
 
@@ -9,6 +9,9 @@ militarygrade: militarygrade.zip
 militarygrade.clean:
 	-rm militarygrade.zip .militarygrade.pre
 	-rm -rf militarygrade/
+
+militarygrade.check: militarygrade
+	.script/check_metadata_integrity.sh "militarygrade"
 
 militarygrade.assets= \
   militarygrade/militarygrade_of10.png \

@@ -1,4 +1,4 @@
-.PHONY: LEDMatrix LEDMatrix.assets LEDMatrix.clean
+.PHONY: LEDMatrix LEDMatrix.assets LEDMatrix.clean LEDMatrix.check
 
 LEDMatrix: LEDMatrix.zip
 
@@ -9,6 +9,9 @@ LEDMatrix: LEDMatrix.zip
 LEDMatrix.clean:
 	-rm LEDMatrix.zip .LEDMatrix.pre
 	-rm -rf LEDMatrix/
+
+LEDMatrix.check: LEDMatrix
+	.script/check_metadata_integrity.sh "LEDMatrix"
 
 LEDMatrix.assets= \
   LEDMatrix/ledmatrix_ev_digiteight.png \
