@@ -13,7 +13,11 @@ letters.clean:
 letters.assets= \
   letters/darwinishere_rhinoceros_subtitle.png \
   letters/themaking_closing_subtitle.png \
-  letters/hangoroshi_dialect_subtitle.png
+  letters/hangoroshi_dialect_subtitle.png \
+  letters/square_daitaisou.png \
+  letters/square_issyoniblackholejikkenshiyo.png \
+  letters/square_nikutabeyoniku.png \
+  letters/square_omaenitaihojougadeteiru.png
 
 letters.assets: $(letters.assets)
 

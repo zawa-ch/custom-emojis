@@ -6,8 +6,7 @@ all: \
   letters \
   militarygrade \
   shields \
-  square_animated \
-  square
+  square_animated
 
 clean: \
   handwritten.stellar_ch.clean \
@@ -15,8 +14,7 @@ clean: \
   letters.clean \
   militarygrade.clean \
   shields.clean \
-  square_animated.clean \
-  square.clean
+  square_animated.clean
 
 help:
 	@echo "build mi-emojis"
@@ -25,7 +23,7 @@ help:
 	@echo "* all   | build all targets"
 	@echo "* clean | clean build directory"
 	@echo "Individual targets:"
-	@echo "> handwritten.stellar_ch LEDMatrix letters militarygrade shields square_animated square"
+	@echo "> handwritten.stellar_ch LEDMatrix letters militarygrade shields square_animated"
 	@echo "* <target>.clean | clean target"
 
 include handwritten.stellar_ch.mk
@@ -34,4 +32,3 @@ include letters.mk
 include militarygrade.mk
 include shields.mk
 include square_animated.mk
-include square.mk
