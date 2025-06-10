@@ -13,7 +13,7 @@ LEDMatrix.clean:
 LEDMatrix.check: LEDMatrix
 	.script/check_metadata_integrity.sh "LEDMatrix"
 
-LEDMatrix.assets= \
+LEDMatrix.assets= LEDMatrix/meta.json \
   LEDMatrix/ledmatrix_ev_digiteight.png \
   LEDMatrix/ledmatrix_ev_digitfive.png \
   LEDMatrix/ledmatrix_ev_digitfour.png \
@@ -62,7 +62,7 @@ LEDMatrix.assets= \
 
 LEDMatrix.assets: $(LEDMatrix.assets)
 
-LEDMatrix.zip: $(LEDMatrix.assets) LEDMatrix/meta.json
+LEDMatrix.zip: $(LEDMatrix.assets)
 	cd LEDMatrix/ && zip ../LEDMatrix.zip meta.json ./*.png
 
 LEDMatrix/meta.json: ../LEDMatrix/meta.json .LEDMatrix.pre

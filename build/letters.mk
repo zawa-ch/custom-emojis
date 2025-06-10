@@ -13,7 +13,7 @@ letters.clean:
 letters.check: letters
 	.script/check_metadata_integrity.sh "letters"
 
-letters.assets= \
+letters.assets= letters/meta.json \
   letters/black_squared_neon_igyo.png \
   letters/darwinishere_rhinoceros_subtitle.png \
   letters/themaking_closing_subtitle.png \
@@ -27,7 +27,7 @@ letters.assets= \
 
 letters.assets: $(letters.assets)
 
-letters.zip: $(letters.assets) letters/meta.json
+letters.zip: $(letters.assets)
 	cd letters/ && zip ../letters.zip meta.json ./*.png
 
 letters/meta.json: ../letters/meta.json .letters.pre

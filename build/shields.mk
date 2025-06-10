@@ -13,7 +13,7 @@ shields.clean:
 shields.check: shields
 	.script/check_metadata_integrity.sh "shields"
 
-shields.assets= \
+shields.assets= shields/meta.json \
   shields/donotdisturb.png \
   shields/nowplaying.png \
   shields/red_power_blue_word.png \
@@ -26,7 +26,7 @@ shields.assets= \
 
 shields.assets: $(shields.assets)
 
-shields.zip: $(shields.assets) shields/meta.json
+shields.zip: $(shields.assets)
 	cd shields/ && zip ../shields.zip meta.json ./*.png
 
 shields/meta.json: ../shields/meta.json .shields.pre

@@ -13,7 +13,7 @@ militarygrade.clean:
 militarygrade.check: militarygrade
 	.script/check_metadata_integrity.sh "militarygrade"
 
-militarygrade.assets= \
+militarygrade.assets= militarygrade/meta.json \
   militarygrade/militarygrade_of10.png \
   militarygrade/militarygrade_of1ha.png \
   militarygrade/militarygrade_of1haf.png \
@@ -75,7 +75,7 @@ militarygrade.assets= \
 
 militarygrade.assets: $(militarygrade.assets)
 
-militarygrade.zip: $(militarygrade.assets) militarygrade/meta.json
+militarygrade.zip: $(militarygrade.assets)
 	cd militarygrade/ && zip ../militarygrade.zip meta.json ./*.png
 
 militarygrade/meta.json: ../militarygrade/meta.json .militarygrade.pre

@@ -13,7 +13,7 @@ handwritten.clean:
 handwritten.check: handwritten
 	.script/check_metadata_integrity.sh "handwritten"
 
-handwritten.assets= \
+handwritten.assets= handwritten/meta.json \
   handwritten/stellar_ch_handwritten_erailtu.png \
   handwritten/stellar_ch_handwritten_gupekorin.png \
   handwritten/stellar_ch_handwritten_invitingbed.png \
@@ -42,7 +42,7 @@ handwritten.assets= \
 
 handwritten.assets: $(handwritten.assets)
 
-handwritten.zip: $(handwritten.assets) handwritten/meta.json
+handwritten.zip: $(handwritten.assets)
 	cd handwritten/ && zip ../handwritten.zip meta.json ./*.png
 
 handwritten/meta.json: ../handwritten/meta.json .handwritten.pre
