@@ -42,3 +42,10 @@ shields/donotdisturb.png: .shields.pre shields/donotdisturb/000.png
 shields/donotdisturb/000.png: ../shields/donotdisturb.rawr .shields.pre
 	mkdir -p shields/donotdisturb
 	.script/fe_glaxnimate.sh -r shields/donotdisturb/.png --render-format png --frame all ../shields/donotdisturb.rawr
+
+shields/nowplaying.png: .shields.pre shields/nowplaying/00.png
+	apngasm -F -d 1:24 -o shields/nowplaying.png shields/nowplaying/*.png
+
+shields/nowplaying/00.png: ../shields/nowplaying.rawr .shields.pre
+	mkdir -p shields/nowplaying
+	.script/fe_glaxnimate.sh -r shields/nowplaying/.png --render-format png --frame all ../shields/nowplaying.rawr
