@@ -35,10 +35,6 @@ shields/%.png:: ../shields/%.svg .shields.pre
 	resvg -z 4.0 --dpi 384 "$<" "$@"
 	optipng -q --fix "$@"
 
-shields/%.png:: ../shields/ContentWarning/%.svg .shields.pre
-	resvg -z 4.0 --dpi 384 "$<" "$@"
-	optipng -q --fix "$@"
-
 shields/donotdisturb.png: .shields.pre shields/donotdisturb/000.png
 	apngasm -F -d 1:24 -o shields/donotdisturb.png shields/donotdisturb/*.png
 
