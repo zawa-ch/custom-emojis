@@ -58,7 +58,8 @@ LEDMatrix.assets= LEDMatrix/meta.json \
   LEDMatrix/ledmatrix_ev_upwardsarrow_a.png \
   LEDMatrix/ledmatrix_r16_nextis.png \
   LEDMatrix/ledmatrix_r16_nextomaeda.png \
-  LEDMatrix/ledmatrix_r16_notification.png
+  LEDMatrix/ledmatrix_r16_notification.png \
+  LEDMatrix/ledmatrix_r24_yokohamasubwayblueline_trainarrival.png
 
 LEDMatrix.assets: $(LEDMatrix.assets)
 
@@ -89,3 +90,10 @@ LEDMatrix/ledmatrix_ev_upwardsarrow_a.png: .LEDMatrix.pre LEDMatrix/ledmatrix_ev
 LEDMatrix/ledmatrix_ev_upwardsarrow_a/0.png: .LEDMatrix.pre ../LEDMatrix/Elevator/ledmatrix_ev_upwardsarrow_a.rawr
 	mkdir -p LEDMatrix/ledmatrix_ev_upwardsarrow_a
 	.script/fe_glaxnimate.sh -r LEDMatrix/ledmatrix_ev_upwardsarrow_a/.png --render-format png --frame all ../LEDMatrix/Elevator/ledmatrix_ev_upwardsarrow_a.rawr
+
+LEDMatrix/ledmatrix_r24_yokohamasubwayblueline_trainarrival.png: .LEDMatrix.pre LEDMatrix/ledmatrix_r24_yokohamasubwayblueline_trainarrival/0.png
+	apngasm -F -d 1:1 -o LEDMatrix/ledmatrix_r24_yokohamasubwayblueline_trainarrival.png LEDMatrix/ledmatrix_r24_yokohamasubwayblueline_trainarrival/*.png
+
+LEDMatrix/ledmatrix_r24_yokohamasubwayblueline_trainarrival/0.png: .LEDMatrix.pre ../LEDMatrix/R24/ledmatrix_r24_yokohamasubwayblueline_trainarrival.rawr
+	mkdir -p LEDMatrix/ledmatrix_r24_yokohamasubwayblueline_trainarrival
+	.script/fe_glaxnimate.sh -r LEDMatrix/ledmatrix_r24_yokohamasubwayblueline_trainarrival/.png --render-format png --frame all ../LEDMatrix/R24/ledmatrix_r24_yokohamasubwayblueline_trainarrival.rawr

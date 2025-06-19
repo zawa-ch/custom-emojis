@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	width="64"
+	height="64"
+	>
+	<g>
+		<path d="M 33,1 l 30,30 q 1,1 0,2 l -30,30 q -1,1 -2,0 l -30,-30 q -1,-1 0,-2 l 30,-30 q 1,-1 2,0 z" fill="#eecc11" stroke="black" stroke-width="0.5" />
+		<path d="M 32,2 l 30,30 -30,30 -30,-30 z m 1,3 q -1,-1 -2,0 l -26,26 q -1,1 0,2 l 26,26 q 1,1 2,0 l 26,-26 q 1,-1 0,-2 z" fill="black" stroke="none" />
+	</g>
+</svg>

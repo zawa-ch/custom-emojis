@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:cc="http://creativecommons.org/ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="144"
+	height="24"
+	viewBox="0 0 144 24"
+	version="1.1"
+	xml:space="preserve"
+	>
+	<title>ledmatrix_r24_yokohamasubwayblueline_trainarrival</title>
+	<metadata>
+		<rdf:RDF>
+			<cc:Work rdf:about="">
+				<cc:license rdf:resource="https://www.apache.org/licenses/LICENSE-2.0" />
+				<dc:title>ledmatrix_r24_yokohamasubwayblueline_trainarrival</dc:title>
+				<dc:creator><cc:Agent><dc:title>zawa-ch.</dc:title></cc:Agent></dc:creator>
+				<dc:rights><cc:Agent><dc:title>Copyright 2025 zawa-ch.</dc:title></cc:Agent></dc:rights>
+				<dc:identifier>ledmatrix_r24_yokohamasubwayblueline_trainarrival</dc:identifier>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<style>
+		.bg {
+			fill: #1c1c1c;
+			fill-opacity: 1;
+			stroke: none;
+		}
+		.led-off {
+			fill: #838383;
+			fill-opacity: 0.25;
+			stroke: none;
+		}
+		.led-on {
+			fill: #ff3030;
+			fill-opacity: 1;
+			stroke: none;
+		}
+	</style>
+	<defs>
+		<symbol>
+			<circle id="led" cx="0" cy="0" r="0.45" />
+		</symbol>
+		<filter id="blur" x="-0.1" y="-0.1" width="1.2" height="1.2" style="color-interpolation-filters:sRGB;" >
+			<feGaussianBlur stdDeviation="1.2" result="blur" />
+		</filter>
+	</defs>
+	<rect x="0" y="0" width="144" height="24" class="bg" inkscape:label="bg" />
+	<g inkscape:groupmode="layer" inkscape:label="fg">
+		<g inkscape:label="led-off">
+			<g id="led-off-col0" transform="translate(0,0)">
+				<use href="#led" x="0.5" y="0.5" class="led-off" />
+				<use href="#led" x="0.5" y="1.5" class="led-off" />
+				<use href="#led" x="0.5" y="2.5" class="led-off" />
+				<use href="#led" x="0.5" y="3.5" class="led-off" />
+				<use href="#led" x="0.5" y="4.5" class="led-off" />
+				<use href="#led" x="0.5" y="5.5" class="led-off" />
+				<use href="#led" x="0.5" y="6.5" class="led-off" />
+				<use href="#led" x="0.5" y="7.5" class="led-off" />
+				<use href="#led" x="0.5" y="8.5" class="led-off" />
+				<use href="#led" x="0.5" y="9.5" class="led-off" />
+				<use href="#led" x="0.5" y="10.5" class="led-off" />
+				<use href="#led" x="0.5" y="11.5" class="led-off" />
+				<use href="#led" x="0.5" y="12.5" class="led-off" />
+				<use href="#led" x="0.5" y="13.5" class="led-off" />
+				<use href="#led" x="0.5" y="14.5" class="led-off" />
+				<use href="#led" x="0.5" y="15.5" class="led-off" />
+				<use href="#led" x="0.5" y="16.5" class="led-off" />
+				<use href="#led" x="0.5" y="17.5" class="led-off" />
+				<use href="#led" x="0.5" y="18.5" class="led-off" />
+				<use href="#led" x="0.5" y="19.5" class="led-off" />
+				<use href="#led" x="0.5" y="20.5" class="led-off" />
+				<use href="#led" x="0.5" y="21.5" class="led-off" />
+				<use href="#led" x="0.5" y="22.5" class="led-off" />
+				<use href="#led" x="0.5" y="23.5" class="led-off" />
+			</g>
+			<use xlink:href="#led-off-col0" transform="translate(1,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(2,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(3,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(4,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(5,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(6,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(7,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(8,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(9,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(10,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(11,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(12,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(13,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(14,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(15,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(16,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(17,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(18,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(19,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(20,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(21,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(22,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(23,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(24,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(25,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(26,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(27,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(28,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(29,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(30,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(31,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(32,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(33,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(34,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(35,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(36,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(37,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(38,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(39,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(40,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(41,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(42,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(43,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(44,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(45,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(46,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(47,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(48,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(49,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(50,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(51,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(52,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(53,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(54,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(55,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(56,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(57,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(58,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(59,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(60,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(61,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(62,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(63,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(64,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(65,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(66,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(67,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(68,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(69,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(70,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(71,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(72,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(73,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(74,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(75,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(76,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(77,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(78,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(79,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(80,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(81,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(82,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(83,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(84,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(85,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(86,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(87,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(88,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(89,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(90,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(91,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(92,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(93,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(94,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(95,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(96,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(97,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(98,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(99,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(100,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(101,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(102,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(103,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(104,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(105,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(106,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(107,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(108,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(109,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(110,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(111,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(112,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(113,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(114,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(115,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(116,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(117,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(118,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(119,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(120,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(121,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(122,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(123,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(124,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(125,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(126,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(127,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(128,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(129,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(130,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(131,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(132,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(133,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(134,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(135,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(136,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(137,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(138,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(139,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(140,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(141,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(142,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(143,0)" />
+		</g>
+		<g inkscape:label="led-on" id="led_light">
+			<g>
+				<use href="#led" x="1.5" y="4.5" class="led-on" />
+				<use href="#led" x="1.5" y="5.5" class="led-on" />
+				<use href="#led" x="1.5" y="6.5" class="led-on" />
+				<use href="#led" x="1.5" y="7.5" class="led-on" />
+				<use href="#led" x="1.5" y="8.5" class="led-on" />
+				<use href="#led" x="2.5" y="4.5" class="led-on" />
+				<use href="#led" x="2.5" y="5.5" class="led-on" />
+				<use href="#led" x="2.5" y="6.5" class="led-on" />
+				<use href="#led" x="2.5" y="7.5" class="led-on" />
+				<use href="#led" x="2.5" y="8.5" class="led-on" />
+				<use href="#led" x="3.5" y="1.5" class="led-on" />
+				<use href="#led" x="3.5" y="2.5" class="led-on" />
+				<use href="#led" x="3.5" y="4.5" class="led-on" />
+				<use href="#led" x="3.5" y="5.5" class="led-on" />
+				<use href="#led" x="4.5" y="1.5" class="led-on" />
+				<use href="#led" x="4.5" y="2.5" class="led-on" />
+				<use href="#led" x="4.5" y="4.5" class="led-on" />
+				<use href="#led" x="4.5" y="5.5" class="led-on" />
+				<use href="#led" x="4.5" y="11.5" class="led-on" />
+				<use href="#led" x="4.5" y="12.5" class="led-on" />
+				<use href="#led" x="4.5" y="13.5" class="led-on" />
+				<use href="#led" x="4.5" y="14.5" class="led-on" />
+				<use href="#led" x="4.5" y="15.5" class="led-on" />
+				<use href="#led" x="4.5" y="16.5" class="led-on" />
+				<use href="#led" x="4.5" y="17.5" class="led-on" />
+				<use href="#led" x="4.5" y="18.5" class="led-on" />
+				<use href="#led" x="4.5" y="19.5" class="led-on" />
+				<use href="#led" x="5.5" y="1.5" class="led-on" />
+				<use href="#led" x="5.5" y="2.5" class="led-on" />
+				<use href="#led" x="5.5" y="4.5" class="led-on" />
+				<use href="#led" x="5.5" y="5.5" class="led-on" />
+				<use href="#led" x="5.5" y="7.5" class="led-on" />
+				<use href="#led" x="5.5" y="9.5" class="led-on" />
+				<use href="#led" x="5.5" y="11.5" class="led-on" />
+				<use href="#led" x="5.5" y="12.5" class="led-on" />
+				<use href="#led" x="5.5" y="13.5" class="led-on" />
+				<use href="#led" x="5.5" y="14.5" class="led-on" />
+				<use href="#led" x="5.5" y="15.5" class="led-on" />
+				<use href="#led" x="5.5" y="16.5" class="led-on" />
+				<use href="#led" x="5.5" y="17.5" class="led-on" />
+				<use href="#led" x="5.5" y="18.5" class="led-on" />
+				<use href="#led" x="5.5" y="19.5" class="led-on" />
+				<use href="#led" x="6.5" y="1.5" class="led-on" />
+				<use href="#led" x="6.5" y="2.5" class="led-on" />
+				<use href="#led" x="6.5" y="4.5" class="led-on" />
+				<use href="#led" x="6.5" y="5.5" class="led-on" />
+				<use href="#led" x="6.5" y="7.5" class="led-on" />
+				<use href="#led" x="6.5" y="9.5" class="led-on" />
+				<use href="#led" x="6.5" y="11.5" class="led-on" />
+				<use href="#led" x="6.5" y="12.5" class="led-on" />
+				<use href="#led" x="6.5" y="14.5" class="led-on" />
+				<use href="#led" x="6.5" y="15.5" class="led-on" />
+				<use href="#led" x="6.5" y="17.5" class="led-on" />
+				<use href="#led" x="6.5" y="18.5" class="led-on" />
+				<use href="#led" x="7.5" y="1.5" class="led-on" />
+				<use href="#led" x="7.5" y="2.5" class="led-on" />
+				<use href="#led" x="7.5" y="4.5" class="led-on" />
+				<use href="#led" x="7.5" y="5.5" class="led-on" />
+				<use href="#led" x="7.5" y="7.5" class="led-on" />
+				<use href="#led" x="7.5" y="9.5" class="led-on" />
+				<use href="#led" x="7.5" y="11.5" class="led-on" />
+				<use href="#led" x="7.5" y="12.5" class="led-on" />
+				<use href="#led" x="7.5" y="14.5" class="led-on" />
+				<use href="#led" x="7.5" y="15.5" class="led-on" />
+				<use href="#led" x="7.5" y="17.5" class="led-on" />
+				<use href="#led" x="7.5" y="18.5" class="led-on" />
+				<use href="#led" x="8.5" y="1.5" class="led-on" />
+				<use href="#led" x="8.5" y="2.5" class="led-on" />
+				<use href="#led" x="8.5" y="4.5" class="led-on" />
+				<use href="#led" x="8.5" y="5.5" class="led-on" />
+				<use href="#led" x="8.5" y="7.5" class="led-on" />
+				<use href="#led" x="8.5" y="9.5" class="led-on" />
+				<use href="#led" x="8.5" y="11.5" class="led-on" />
+				<use href="#led" x="8.5" y="12.5" class="led-on" />
+				<use href="#led" x="8.5" y="14.5" class="led-on" />
+				<use href="#led" x="8.5" y="15.5" class="led-on" />
+				<use href="#led" x="8.5" y="17.5" class="led-on" />
+				<use href="#led" x="8.5" y="18.5" class="led-on" />
+				<use href="#led" x="9.5" y="1.5" class="led-on" />
+				<use href="#led" x="9.5" y="2.5" class="led-on" />
+				<use href="#led" x="9.5" y="4.5" class="led-on" />
+				<use href="#led" x="9.5" y="5.5" class="led-on" />
+				<use href="#led" x="9.5" y="11.5" class="led-on" />
+				<use href="#led" x="9.5" y="12.5" class="led-on" />
+				<use href="#led" x="9.5" y="14.5" class="led-on" />
+				<use href="#led" x="9.5" y="15.5" class="led-on" />
+				<use href="#led" x="9.5" y="17.5" class="led-on" />
+				<use href="#led" x="9.5" y="18.5" class="led-on" />
+				<use href="#led" x="10.5" y="1.5" class="led-on" />
+				<use href="#led" x="10.5" y="2.5" class="led-on" />
+				<use href="#led" x="10.5" y="4.5" class="led-on" />
+				<use href="#led" x="10.5" y="5.5" class="led-on" />
+				<use href="#led" x="10.5" y="11.5" class="led-on" />
+				<use href="#led" x="10.5" y="12.5" class="led-on" />
+				<use href="#led" x="10.5" y="14.5" class="led-on" />
+				<use href="#led" x="10.5" y="15.5" class="led-on" />
+				<use href="#led" x="10.5" y="17.5" class="led-on" />
+				<use href="#led" x="10.5" y="18.5" class="led-on" />
+				<use href="#led" x="11.5" y="1.5" class="led-on" />
+				<use href="#led" x="11.5" y="2.5" class="led-on" />
+				<use href="#led" x="11.5" y="3.5" class="led-on" />
+				<use href="#led" x="11.5" y="4.5" class="led-on" />
+				<use href="#led" x="11.5" y="5.5" class="led-on" />
+				<use href="#led" x="11.5" y="6.5" class="led-on" />
+				<use href="#led" x="11.5" y="7.5" class="led-on" />
+				<use href="#led" x="11.5" y="8.5" class="led-on" />
+				<use href="#led" x="11.5" y="9.5" class="led-on" />
+				<use href="#led" x="11.5" y="11.5" class="led-on" />
+				<use href="#led" x="11.5" y="12.5" class="led-on" />
+				<use href="#led" x="11.5" y="13.5" class="led-on" />
+				<use href="#led" x="11.5" y="14.5" class="led-on" />
+				<use href="#led" x="11.5" y="15.5" class="led-on" />
+				<use href="#led" x="11.5" y="16.5" class="led-on" />
+				<use href="#led" x="11.5" y="17.5" class="led-on" />
+				<use href="#led" x="11.5" y="18.5" class="led-on" />
+				<use href="#led" x="11.5" y="19.5" class="led-on" />
+				<use href="#led" x="11.5" y="20.5" class="led-on" />
+				<use href="#led" x="11.5" y="21.5" class="led-on" />
+				<use href="#led" x="12.5" y="1.5" class="led-on" />
+				<use href="#led" x="12.5" y="2.5" class="led-on" />
+				<use href="#led" x="12.5" y="3.5" class="led-on" />
+				<use href="#led" x="12.5" y="4.5" class="led-on" />
+				<use href="#led" x="12.5" y="5.5" class="led-on" />
+				<use href="#led" x="12.5" y="6.5" class="led-on" />
+				<use href="#led" x="12.5" y="7.5" class="led-on" />
+				<use href="#led" x="12.5" y="8.5" class="led-on" />
+				<use href="#led" x="12.5" y="9.5" class="led-on" />
+				<use href="#led" x="12.5" y="11.5" class="led-on" />
+				<use href="#led" x="12.5" y="12.5" class="led-on" />
+				<use href="#led" x="12.5" y="13.5" class="led-on" />
+				<use href="#led" x="12.5" y="14.5" class="led-on" />
+				<use href="#led" x="12.5" y="15.5" class="led-on" />
+				<use href="#led" x="12.5" y="16.5" class="led-on" />
+				<use href="#led" x="12.5" y="17.5" class="led-on" />
+				<use href="#led" x="12.5" y="18.5" class="led-on" />
+				<use href="#led" x="12.5" y="19.5" class="led-on" />
+				<use href="#led" x="12.5" y="20.5" class="led-on" />
+				<use href="#led" x="12.5" y="21.5" class="led-on" />
+				<use href="#led" x="12.5" y="22.5" class="led-on" />
+				<use href="#led" x="13.5" y="1.5" class="led-on" />
+				<use href="#led" x="13.5" y="2.5" class="led-on" />
+				<use href="#led" x="13.5" y="4.5" class="led-on" />
+				<use href="#led" x="13.5" y="5.5" class="led-on" />
+				<use href="#led" x="13.5" y="11.5" class="led-on" />
+				<use href="#led" x="13.5" y="12.5" class="led-on" />
+				<use href="#led" x="13.5" y="14.5" class="led-on" />
+				<use href="#led" x="13.5" y="15.5" class="led-on" />
+				<use href="#led" x="13.5" y="17.5" class="led-on" />
+				<use href="#led" x="13.5" y="18.5" class="led-on" />
+				<use href="#led" x="13.5" y="21.5" class="led-on" />
+				<use href="#led" x="13.5" y="22.5" class="led-on" />
+				<use href="#led" x="14.5" y="1.5" class="led-on" />
+				<use href="#led" x="14.5" y="2.5" class="led-on" />
+				<use href="#led" x="14.5" y="4.5" class="led-on" />
+				<use href="#led" x="14.5" y="5.5" class="led-on" />
+				<use href="#led" x="14.5" y="11.5" class="led-on" />
+				<use href="#led" x="14.5" y="12.5" class="led-on" />
+				<use href="#led" x="14.5" y="14.5" class="led-on" />
+				<use href="#led" x="14.5" y="15.5" class="led-on" />
+				<use href="#led" x="14.5" y="17.5" class="led-on" />
+				<use href="#led" x="14.5" y="18.5" class="led-on" />
+				<use href="#led" x="14.5" y="21.5" class="led-on" />
+				<use href="#led" x="14.5" y="22.5" class="led-on" />
+				<use href="#led" x="15.5" y="1.5" class="led-on" />
+				<use href="#led" x="15.5" y="2.5" class="led-on" />
+				<use href="#led" x="15.5" y="4.5" class="led-on" />
+				<use href="#led" x="15.5" y="5.5" class="led-on" />
+				<use href="#led" x="15.5" y="7.5" class="led-on" />
+				<use href="#led" x="15.5" y="9.5" class="led-on" />
+				<use href="#led" x="15.5" y="11.5" class="led-on" />
+				<use href="#led" x="15.5" y="12.5" class="led-on" />
+				<use href="#led" x="15.5" y="14.5" class="led-on" />
+				<use href="#led" x="15.5" y="15.5" class="led-on" />
+				<use href="#led" x="15.5" y="17.5" class="led-on" />
+				<use href="#led" x="15.5" y="18.5" class="led-on" />
+				<use href="#led" x="15.5" y="21.5" class="led-on" />
+				<use href="#led" x="15.5" y="22.5" class="led-on" />
+				<use href="#led" x="16.5" y="1.5" class="led-on" />
+				<use href="#led" x="16.5" y="2.5" class="led-on" />
+				<use href="#led" x="16.5" y="4.5" class="led-on" />
+				<use href="#led" x="16.5" y="5.5" class="led-on" />
+				<use href="#led" x="16.5" y="7.5" class="led-on" />
+				<use href="#led" x="16.5" y="9.5" class="led-on" />
+				<use href="#led" x="16.5" y="11.5" class="led-on" />
+				<use href="#led" x="16.5" y="12.5" class="led-on" />
+				<use href="#led" x="16.5" y="14.5" class="led-on" />
+				<use href="#led" x="16.5" y="15.5" class="led-on" />
+				<use href="#led" x="16.5" y="17.5" class="led-on" />
+				<use href="#led" x="16.5" y="18.5" class="led-on" />
+				<use href="#led" x="16.5" y="21.5" class="led-on" />
+				<use href="#led" x="16.5" y="22.5" class="led-on" />
+				<use href="#led" x="17.5" y="1.5" class="led-on" />
+				<use href="#led" x="17.5" y="2.5" class="led-on" />
+				<use href="#led" x="17.5" y="4.5" class="led-on" />
+				<use href="#led" x="17.5" y="5.5" class="led-on" />
+				<use href="#led" x="17.5" y="7.5" class="led-on" />
+				<use href="#led" x="17.5" y="9.5" class="led-on" />
+				<use href="#led" x="17.5" y="11.5" class="led-on" />
+				<use href="#led" x="17.5" y="12.5" class="led-on" />
+				<use href="#led" x="17.5" y="14.5" class="led-on" />
+				<use href="#led" x="17.5" y="15.5" class="led-on" />
+				<use href="#led" x="17.5" y="17.5" class="led-on" />
+				<use href="#led" x="17.5" y="18.5" class="led-on" />
+				<use href="#led" x="17.5" y="21.5" class="led-on" />
+				<use href="#led" x="17.5" y="22.5" class="led-on" />
+				<use href="#led" x="18.5" y="1.5" class="led-on" />
+				<use href="#led" x="18.5" y="2.5" class="led-on" />
+				<use href="#led" x="18.5" y="4.5" class="led-on" />
+				<use href="#led" x="18.5" y="5.5" class="led-on" />
+				<use href="#led" x="18.5" y="7.5" class="led-on" />
+				<use href="#led" x="18.5" y="9.5" class="led-on" />
+				<use href="#led" x="18.5" y="11.5" class="led-on" />
+				<use href="#led" x="18.5" y="12.5" class="led-on" />
+				<use href="#led" x="18.5" y="13.5" class="led-on" />
+				<use href="#led" x="18.5" y="14.5" class="led-on" />
+				<use href="#led" x="18.5" y="15.5" class="led-on" />
+				<use href="#led" x="18.5" y="16.5" class="led-on" />
+				<use href="#led" x="18.5" y="17.5" class="led-on" />
+				<use href="#led" x="18.5" y="18.5" class="led-on" />
+				<use href="#led" x="18.5" y="21.5" class="led-on" />
+				<use href="#led" x="18.5" y="22.5" class="led-on" />
+				<use href="#led" x="19.5" y="1.5" class="led-on" />
+				<use href="#led" x="19.5" y="2.5" class="led-on" />
+				<use href="#led" x="19.5" y="4.5" class="led-on" />
+				<use href="#led" x="19.5" y="5.5" class="led-on" />
+				<use href="#led" x="19.5" y="11.5" class="led-on" />
+				<use href="#led" x="19.5" y="12.5" class="led-on" />
+				<use href="#led" x="19.5" y="13.5" class="led-on" />
+				<use href="#led" x="19.5" y="14.5" class="led-on" />
+				<use href="#led" x="19.5" y="15.5" class="led-on" />
+				<use href="#led" x="19.5" y="16.5" class="led-on" />
+				<use href="#led" x="19.5" y="17.5" class="led-on" />
+				<use href="#led" x="19.5" y="18.5" class="led-on" />
+				<use href="#led" x="19.5" y="21.5" class="led-on" />
+				<use href="#led" x="19.5" y="22.5" class="led-on" />
+				<use href="#led" x="20.5" y="1.5" class="led-on" />
+				<use href="#led" x="20.5" y="2.5" class="led-on" />
+				<use href="#led" x="20.5" y="4.5" class="led-on" />
+				<use href="#led" x="20.5" y="5.5" class="led-on" />
+				<use href="#led" x="20.5" y="21.5" class="led-on" />
+				<use href="#led" x="20.5" y="22.5" class="led-on" />
+				<use href="#led" x="21.5" y="4.5" class="led-on" />
+				<use href="#led" x="21.5" y="5.5" class="led-on" />
+				<use href="#led" x="21.5" y="6.5" class="led-on" />
+				<use href="#led" x="21.5" y="7.5" class="led-on" />
+				<use href="#led" x="21.5" y="8.5" class="led-on" />
+				<use href="#led" x="21.5" y="18.5" class="led-on" />
+				<use href="#led" x="21.5" y="19.5" class="led-on" />
+				<use href="#led" x="21.5" y="20.5" class="led-on" />
+				<use href="#led" x="21.5" y="21.5" class="led-on" />
+				<use href="#led" x="21.5" y="22.5" class="led-on" />
+				<use href="#led" x="22.5" y="4.5" class="led-on" />
+				<use href="#led" x="22.5" y="5.5" class="led-on" />
+				<use href="#led" x="22.5" y="6.5" class="led-on" />
+				<use href="#led" x="22.5" y="7.5" class="led-on" />
+				<use href="#led" x="22.5" y="8.5" class="led-on" />
+				<use href="#led" x="22.5" y="19.5" class="led-on" />
+				<use href="#led" x="22.5" y="20.5" class="led-on" />
+				<use href="#led" x="22.5" y="21.5" class="led-on" />
+			</g>
+			<g transform="translate(24,0)">
+				<use href="#led" x="1.5" y="17.5" class="led-on" />
+				<use href="#led" x="1.5" y="18.5" class="led-on" />
+				<use href="#led" x="2.5" y="3.5" class="led-on" />
+				<use href="#led" x="2.5" y="4.5" class="led-on" />
+				<use href="#led" x="2.5" y="17.5" class="led-on" />
+				<use href="#led" x="2.5" y="18.5" class="led-on" />
+				<use href="#led" x="3.5" y="3.5" class="led-on" />
+				<use href="#led" x="3.5" y="4.5" class="led-on" />
+				<use href="#led" x="3.5" y="17.5" class="led-on" />
+				<use href="#led" x="3.5" y="18.5" class="led-on" />
+				<use href="#led" x="4.5" y="3.5" class="led-on" />
+				<use href="#led" x="4.5" y="4.5" class="led-on" />
+				<use href="#led" x="4.5" y="6.5" class="led-on" />
+				<use href="#led" x="4.5" y="7.5" class="led-on" />
+				<use href="#led" x="4.5" y="8.5" class="led-on" />
+				<use href="#led" x="4.5" y="9.5" class="led-on" />
+				<use href="#led" x="4.5" y="10.5" class="led-on" />
+				<use href="#led" x="4.5" y="11.5" class="led-on" />
+				<use href="#led" x="4.5" y="12.5" class="led-on" />
+				<use href="#led" x="4.5" y="13.5" class="led-on" />
+				<use href="#led" x="4.5" y="14.5" class="led-on" />
+				<use href="#led" x="4.5" y="15.5" class="led-on" />
+				<use href="#led" x="4.5" y="17.5" class="led-on" />
+				<use href="#led" x="4.5" y="18.5" class="led-on" />
+				<use href="#led" x="5.5" y="3.5" class="led-on" />
+				<use href="#led" x="5.5" y="4.5" class="led-on" />
+				<use href="#led" x="5.5" y="6.5" class="led-on" />
+				<use href="#led" x="5.5" y="7.5" class="led-on" />
+				<use href="#led" x="5.5" y="8.5" class="led-on" />
+				<use href="#led" x="5.5" y="9.5" class="led-on" />
+				<use href="#led" x="5.5" y="10.5" class="led-on" />
+				<use href="#led" x="5.5" y="11.5" class="led-on" />
+				<use href="#led" x="5.5" y="12.5" class="led-on" />
+				<use href="#led" x="5.5" y="13.5" class="led-on" />
+				<use href="#led" x="5.5" y="14.5" class="led-on" />
+				<use href="#led" x="5.5" y="15.5" class="led-on" />
+				<use href="#led" x="5.5" y="17.5" class="led-on" />
+				<use href="#led" x="5.5" y="18.5" class="led-on" />
+				<use href="#led" x="6.5" y="3.5" class="led-on" />
+				<use href="#led" x="6.5" y="4.5" class="led-on" />
+				<use href="#led" x="6.5" y="6.5" class="led-on" />
+				<use href="#led" x="6.5" y="7.5" class="led-on" />
+				<use href="#led" x="6.5" y="10.5" class="led-on" />
+				<use href="#led" x="6.5" y="11.5" class="led-on" />
+				<use href="#led" x="6.5" y="14.5" class="led-on" />
+				<use href="#led" x="6.5" y="15.5" class="led-on" />
+				<use href="#led" x="6.5" y="17.5" class="led-on" />
+				<use href="#led" x="6.5" y="18.5" class="led-on" />
+				<use href="#led" x="7.5" y="3.5" class="led-on" />
+				<use href="#led" x="7.5" y="4.5" class="led-on" />
+				<use href="#led" x="7.5" y="6.5" class="led-on" />
+				<use href="#led" x="7.5" y="7.5" class="led-on" />
+				<use href="#led" x="7.5" y="10.5" class="led-on" />
+				<use href="#led" x="7.5" y="11.5" class="led-on" />
+				<use href="#led" x="7.5" y="14.5" class="led-on" />
+				<use href="#led" x="7.5" y="15.5" class="led-on" />
+				<use href="#led" x="7.5" y="17.5" class="led-on" />
+				<use href="#led" x="7.5" y="18.5" class="led-on" />
+				<use href="#led" x="8.5" y="3.5" class="led-on" />
+				<use href="#led" x="8.5" y="4.5" class="led-on" />
+				<use href="#led" x="8.5" y="6.5" class="led-on" />
+				<use href="#led" x="8.5" y="7.5" class="led-on" />
+				<use href="#led" x="8.5" y="10.5" class="led-on" />
+				<use href="#led" x="8.5" y="11.5" class="led-on" />
+				<use href="#led" x="8.5" y="14.5" class="led-on" />
+				<use href="#led" x="8.5" y="15.5" class="led-on" />
+				<use href="#led" x="8.5" y="17.5" class="led-on" />
+				<use href="#led" x="8.5" y="18.5" class="led-on" />
+				<use href="#led" x="9.5" y="3.5" class="led-on" />
+				<use href="#led" x="9.5" y="4.5" class="led-on" />
+				<use href="#led" x="9.5" y="6.5" class="led-on" />
+				<use href="#led" x="9.5" y="7.5" class="led-on" />
+				<use href="#led" x="9.5" y="10.5" class="led-on" />
+				<use href="#led" x="9.5" y="11.5" class="led-on" />
+				<use href="#led" x="9.5" y="14.5" class="led-on" />
+				<use href="#led" x="9.5" y="15.5" class="led-on" />
+				<use href="#led" x="9.5" y="17.5" class="led-on" />
+				<use href="#led" x="9.5" y="18.5" class="led-on" />
+				<use href="#led" x="10.5" y="3.5" class="led-on" />
+				<use href="#led" x="10.5" y="4.5" class="led-on" />
+				<use href="#led" x="10.5" y="6.5" class="led-on" />
+				<use href="#led" x="10.5" y="7.5" class="led-on" />
+				<use href="#led" x="10.5" y="10.5" class="led-on" />
+				<use href="#led" x="10.5" y="11.5" class="led-on" />
+				<use href="#led" x="10.5" y="14.5" class="led-on" />
+				<use href="#led" x="10.5" y="15.5" class="led-on" />
+				<use href="#led" x="10.5" y="17.5" class="led-on" />
+				<use href="#led" x="10.5" y="18.5" class="led-on" />
+				<use href="#led" x="11.5" y="1.5" class="led-on" />
+				<use href="#led" x="11.5" y="2.5" class="led-on" />
+				<use href="#led" x="11.5" y="3.5" class="led-on" />
+				<use href="#led" x="11.5" y="4.5" class="led-on" />
+				<use href="#led" x="11.5" y="5.5" class="led-on" />
+				<use href="#led" x="11.5" y="6.5" class="led-on" />
+				<use href="#led" x="11.5" y="7.5" class="led-on" />
+				<use href="#led" x="11.5" y="8.5" class="led-on" />
+				<use href="#led" x="11.5" y="9.5" class="led-on" />
+				<use href="#led" x="11.5" y="10.5" class="led-on" />
+				<use href="#led" x="11.5" y="11.5" class="led-on" />
+				<use href="#led" x="11.5" y="12.5" class="led-on" />
+				<use href="#led" x="11.5" y="13.5" class="led-on" />
+				<use href="#led" x="11.5" y="14.5" class="led-on" />
+				<use href="#led" x="11.5" y="15.5" class="led-on" />
+				<use href="#led" x="11.5" y="16.5" class="led-on" />
+				<use href="#led" x="11.5" y="17.5" class="led-on" />
+				<use href="#led" x="11.5" y="18.5" class="led-on" />
+				<use href="#led" x="11.5" y="19.5" class="led-on" />
+				<use href="#led" x="11.5" y="20.5" class="led-on" />
+				<use href="#led" x="11.5" y="21.5" class="led-on" />
+				<use href="#led" x="11.5" y="22.5" class="led-on" />
+				<use href="#led" x="12.5" y="1.5" class="led-on" />
+				<use href="#led" x="12.5" y="2.5" class="led-on" />
+				<use href="#led" x="12.5" y="3.5" class="led-on" />
+				<use href="#led" x="12.5" y="4.5" class="led-on" />
+				<use href="#led" x="12.5" y="5.5" class="led-on" />
+				<use href="#led" x="12.5" y="6.5" class="led-on" />
+				<use href="#led" x="12.5" y="7.5" class="led-on" />
+				<use href="#led" x="12.5" y="8.5" class="led-on" />
+				<use href="#led" x="12.5" y="9.5" class="led-on" />
+				<use href="#led" x="12.5" y="10.5" class="led-on" />
+				<use href="#led" x="12.5" y="11.5" class="led-on" />
+				<use href="#led" x="12.5" y="12.5" class="led-on" />
+				<use href="#led" x="12.5" y="13.5" class="led-on" />
+				<use href="#led" x="12.5" y="14.5" class="led-on" />
+				<use href="#led" x="12.5" y="15.5" class="led-on" />
+				<use href="#led" x="12.5" y="16.5" class="led-on" />
+				<use href="#led" x="12.5" y="17.5" class="led-on" />
+				<use href="#led" x="12.5" y="18.5" class="led-on" />
+				<use href="#led" x="12.5" y="19.5" class="led-on" />
+				<use href="#led" x="12.5" y="20.5" class="led-on" />
+				<use href="#led" x="12.5" y="21.5" class="led-on" />
+				<use href="#led" x="12.5" y="22.5" class="led-on" />
+				<use href="#led" x="13.5" y="3.5" class="led-on" />
+				<use href="#led" x="13.5" y="4.5" class="led-on" />
+				<use href="#led" x="13.5" y="6.5" class="led-on" />
+				<use href="#led" x="13.5" y="7.5" class="led-on" />
+				<use href="#led" x="13.5" y="10.5" class="led-on" />
+				<use href="#led" x="13.5" y="11.5" class="led-on" />
+				<use href="#led" x="13.5" y="14.5" class="led-on" />
+				<use href="#led" x="13.5" y="15.5" class="led-on" />
+				<use href="#led" x="13.5" y="17.5" class="led-on" />
+				<use href="#led" x="13.5" y="18.5" class="led-on" />
+				<use href="#led" x="14.5" y="3.5" class="led-on" />
+				<use href="#led" x="14.5" y="4.5" class="led-on" />
+				<use href="#led" x="14.5" y="6.5" class="led-on" />
+				<use href="#led" x="14.5" y="7.5" class="led-on" />
+				<use href="#led" x="14.5" y="10.5" class="led-on" />
+				<use href="#led" x="14.5" y="11.5" class="led-on" />
+				<use href="#led" x="14.5" y="14.5" class="led-on" />
+				<use href="#led" x="14.5" y="15.5" class="led-on" />
+				<use href="#led" x="14.5" y="17.5" class="led-on" />
+				<use href="#led" x="14.5" y="18.5" class="led-on" />
+				<use href="#led" x="15.5" y="3.5" class="led-on" />
+				<use href="#led" x="15.5" y="4.5" class="led-on" />
+				<use href="#led" x="15.5" y="6.5" class="led-on" />
+				<use href="#led" x="15.5" y="7.5" class="led-on" />
+				<use href="#led" x="15.5" y="10.5" class="led-on" />
+				<use href="#led" x="15.5" y="11.5" class="led-on" />
+				<use href="#led" x="15.5" y="14.5" class="led-on" />
+				<use href="#led" x="15.5" y="15.5" class="led-on" />
+				<use href="#led" x="15.5" y="17.5" class="led-on" />
+				<use href="#led" x="15.5" y="18.5" class="led-on" />
+				<use href="#led" x="16.5" y="3.5" class="led-on" />
+				<use href="#led" x="16.5" y="4.5" class="led-on" />
+				<use href="#led" x="16.5" y="6.5" class="led-on" />
+				<use href="#led" x="16.5" y="7.5" class="led-on" />
+				<use href="#led" x="16.5" y="10.5" class="led-on" />
+				<use href="#led" x="16.5" y="11.5" class="led-on" />
+				<use href="#led" x="16.5" y="14.5" class="led-on" />
+				<use href="#led" x="16.5" y="15.5" class="led-on" />
+				<use href="#led" x="16.5" y="17.5" class="led-on" />
+				<use href="#led" x="16.5" y="18.5" class="led-on" />
+				<use href="#led" x="17.5" y="3.5" class="led-on" />
+				<use href="#led" x="17.5" y="4.5" class="led-on" />
+				<use href="#led" x="17.5" y="6.5" class="led-on" />
+				<use href="#led" x="17.5" y="7.5" class="led-on" />
+				<use href="#led" x="17.5" y="10.5" class="led-on" />
+				<use href="#led" x="17.5" y="11.5" class="led-on" />
+				<use href="#led" x="17.5" y="14.5" class="led-on" />
+				<use href="#led" x="17.5" y="15.5" class="led-on" />
+				<use href="#led" x="17.5" y="17.5" class="led-on" />
+				<use href="#led" x="17.5" y="18.5" class="led-on" />
+				<use href="#led" x="18.5" y="3.5" class="led-on" />
+				<use href="#led" x="18.5" y="4.5" class="led-on" />
+				<use href="#led" x="18.5" y="6.5" class="led-on" />
+				<use href="#led" x="18.5" y="7.5" class="led-on" />
+				<use href="#led" x="18.5" y="8.5" class="led-on" />
+				<use href="#led" x="18.5" y="9.5" class="led-on" />
+				<use href="#led" x="18.5" y="10.5" class="led-on" />
+				<use href="#led" x="18.5" y="11.5" class="led-on" />
+				<use href="#led" x="18.5" y="12.5" class="led-on" />
+				<use href="#led" x="18.5" y="13.5" class="led-on" />
+				<use href="#led" x="18.5" y="14.5" class="led-on" />
+				<use href="#led" x="18.5" y="15.5" class="led-on" />
+				<use href="#led" x="18.5" y="17.5" class="led-on" />
+				<use href="#led" x="18.5" y="18.5" class="led-on" />
+				<use href="#led" x="19.5" y="3.5" class="led-on" />
+				<use href="#led" x="19.5" y="4.5" class="led-on" />
+				<use href="#led" x="19.5" y="6.5" class="led-on" />
+				<use href="#led" x="19.5" y="7.5" class="led-on" />
+				<use href="#led" x="19.5" y="8.5" class="led-on" />
+				<use href="#led" x="19.5" y="9.5" class="led-on" />
+				<use href="#led" x="19.5" y="10.5" class="led-on" />
+				<use href="#led" x="19.5" y="11.5" class="led-on" />
+				<use href="#led" x="19.5" y="12.5" class="led-on" />
+				<use href="#led" x="19.5" y="13.5" class="led-on" />
+				<use href="#led" x="19.5" y="14.5" class="led-on" />
+				<use href="#led" x="19.5" y="15.5" class="led-on" />
+				<use href="#led" x="19.5" y="17.5" class="led-on" />
+				<use href="#led" x="19.5" y="18.5" class="led-on" />
+				<use href="#led" x="20.5" y="3.5" class="led-on" />
+				<use href="#led" x="20.5" y="4.5" class="led-on" />
+				<use href="#led" x="20.5" y="17.5" class="led-on" />
+				<use href="#led" x="20.5" y="18.5" class="led-on" />
+				<use href="#led" x="21.5" y="3.5" class="led-on" />
+				<use href="#led" x="21.5" y="4.5" class="led-on" />
+				<use href="#led" x="21.5" y="17.5" class="led-on" />
+				<use href="#led" x="21.5" y="18.5" class="led-on" />
+				<use href="#led" x="22.5" y="17.5" class="led-on" />
+				<use href="#led" x="22.5" y="18.5" class="led-on" />
+			</g>
+			<g transform="translate(48,0)">
+				<use href="#led" x="2.5" y="7.5" class="led-on" />
+				<use href="#led" x="2.5" y="8.5" class="led-on" />
+				<use href="#led" x="2.5" y="19.5" class="led-on" />
+				<use href="#led" x="2.5" y="20.5" class="led-on" />
+				<use href="#led" x="3.5" y="7.5" class="led-on" />
+				<use href="#led" x="3.5" y="8.5" class="led-on" />
+				<use href="#led" x="3.5" y="17.5" class="led-on" />
+				<use href="#led" x="3.5" y="18.5" class="led-on" />
+				<use href="#led" x="3.5" y="19.5" class="led-on" />
+				<use href="#led" x="3.5" y="20.5" class="led-on" />
+				<use href="#led" x="3.5" y="21.5" class="led-on" />
+				<use href="#led" x="4.5" y="7.5" class="led-on" />
+				<use href="#led" x="4.5" y="8.5" class="led-on" />
+				<use href="#led" x="4.5" y="14.5" class="led-on" />
+				<use href="#led" x="4.5" y="15.5" class="led-on" />
+				<use href="#led" x="4.5" y="16.5" class="led-on" />
+				<use href="#led" x="4.5" y="17.5" class="led-on" />
+				<use href="#led" x="4.5" y="18.5" class="led-on" />
+				<use href="#led" x="4.5" y="19.5" class="led-on" />
+				<use href="#led" x="5.5" y="7.5" class="led-on" />
+				<use href="#led" x="5.5" y="8.5" class="led-on" />
+				<use href="#led" x="5.5" y="11.5" class="led-on" />
+				<use href="#led" x="5.5" y="12.5" class="led-on" />
+				<use href="#led" x="5.5" y="13.5" class="led-on" />
+				<use href="#led" x="5.5" y="14.5" class="led-on" />
+				<use href="#led" x="5.5" y="15.5" class="led-on" />
+				<use href="#led" x="5.5" y="16.5" class="led-on" />
+				<use href="#led" x="5.5" y="17.5" class="led-on" />
+				<use href="#led" x="6.5" y="6.5" class="led-on" />
+				<use href="#led" x="6.5" y="7.5" class="led-on" />
+				<use href="#led" x="6.5" y="8.5" class="led-on" />
+				<use href="#led" x="6.5" y="9.5" class="led-on" />
+				<use href="#led" x="6.5" y="10.5" class="led-on" />
+				<use href="#led" x="6.5" y="11.5" class="led-on" />
+				<use href="#led" x="6.5" y="12.5" class="led-on" />
+				<use href="#led" x="6.5" y="13.5" class="led-on" />
+				<use href="#led" x="6.5" y="14.5" class="led-on" />
+				<use href="#led" x="7.5" y="2.5" class="led-on" />
+				<use href="#led" x="7.5" y="3.5" class="led-on" />
+				<use href="#led" x="7.5" y="4.5" class="led-on" />
+				<use href="#led" x="7.5" y="5.5" class="led-on" />
+				<use href="#led" x="7.5" y="6.5" class="led-on" />
+				<use href="#led" x="7.5" y="7.5" class="led-on" />
+				<use href="#led" x="7.5" y="8.5" class="led-on" />
+				<use href="#led" x="7.5" y="9.5" class="led-on" />
+				<use href="#led" x="7.5" y="10.5" class="led-on" />
+				<use href="#led" x="7.5" y="11.5" class="led-on" />
+				<use href="#led" x="7.5" y="19.5" class="led-on" />
+				<use href="#led" x="7.5" y="20.5" class="led-on" />
+				<use href="#led" x="8.5" y="2.5" class="led-on" />
+				<use href="#led" x="8.5" y="3.5" class="led-on" />
+				<use href="#led" x="8.5" y="4.5" class="led-on" />
+				<use href="#led" x="8.5" y="5.5" class="led-on" />
+				<use href="#led" x="8.5" y="6.5" class="led-on" />
+				<use href="#led" x="8.5" y="7.5" class="led-on" />
+				<use href="#led" x="8.5" y="19.5" class="led-on" />
+				<use href="#led" x="8.5" y="20.5" class="led-on" />
+				<use href="#led" x="8.5" y="21.5" class="led-on" />
+				<use href="#led" x="9.5" y="6.5" class="led-on" />
+				<use href="#led" x="9.5" y="7.5" class="led-on" />
+				<use href="#led" x="9.5" y="20.5" class="led-on" />
+				<use href="#led" x="9.5" y="21.5" class="led-on" />
+				<use href="#led" x="10.5" y="6.5" class="led-on" />
+				<use href="#led" x="10.5" y="7.5" class="led-on" />
+				<use href="#led" x="10.5" y="20.5" class="led-on" />
+				<use href="#led" x="10.5" y="21.5" class="led-on" />
+				<use href="#led" x="11.5" y="6.5" class="led-on" />
+				<use href="#led" x="11.5" y="7.5" class="led-on" />
+				<use href="#led" x="11.5" y="19.5" class="led-on" />
+				<use href="#led" x="11.5" y="20.5" class="led-on" />
+				<use href="#led" x="11.5" y="21.5" class="led-on" />
+				<use href="#led" x="12.5" y="6.5" class="led-on" />
+				<use href="#led" x="12.5" y="7.5" class="led-on" />
+				<use href="#led" x="12.5" y="8.5" class="led-on" />
+				<use href="#led" x="12.5" y="17.5" class="led-on" />
+				<use href="#led" x="12.5" y="18.5" class="led-on" />
+				<use href="#led" x="12.5" y="19.5" class="led-on" />
+				<use href="#led" x="12.5" y="20.5" class="led-on" />
+				<use href="#led" x="13.5" y="7.5" class="led-on" />
+				<use href="#led" x="13.5" y="8.5" class="led-on" />
+				<use href="#led" x="13.5" y="9.5" class="led-on" />
+				<use href="#led" x="13.5" y="10.5" class="led-on" />
+				<use href="#led" x="13.5" y="11.5" class="led-on" />
+				<use href="#led" x="13.5" y="12.5" class="led-on" />
+				<use href="#led" x="13.5" y="13.5" class="led-on" />
+				<use href="#led" x="13.5" y="14.5" class="led-on" />
+				<use href="#led" x="13.5" y="15.5" class="led-on" />
+				<use href="#led" x="13.5" y="16.5" class="led-on" />
+				<use href="#led" x="13.5" y="17.5" class="led-on" />
+				<use href="#led" x="13.5" y="18.5" class="led-on" />
+				<use href="#led" x="13.5" y="19.5" class="led-on" />
+				<use href="#led" x="14.5" y="8.5" class="led-on" />
+				<use href="#led" x="14.5" y="9.5" class="led-on" />
+				<use href="#led" x="14.5" y="10.5" class="led-on" />
+				<use href="#led" x="14.5" y="11.5" class="led-on" />
+				<use href="#led" x="14.5" y="12.5" class="led-on" />
+				<use href="#led" x="14.5" y="13.5" class="led-on" />
+				<use href="#led" x="14.5" y="14.5" class="led-on" />
+				<use href="#led" x="14.5" y="15.5" class="led-on" />
+				<use href="#led" x="14.5" y="16.5" class="led-on" />
+				<use href="#led" x="14.5" y="17.5" class="led-on" />
+				<use href="#led" x="15.5" y="3.5" class="led-on" />
+				<use href="#led" x="16.5" y="2.5" class="led-on" />
+				<use href="#led" x="16.5" y="3.5" class="led-on" />
+				<use href="#led" x="16.5" y="4.5" class="led-on" />
+				<use href="#led" x="17.5" y="3.5" class="led-on" />
+				<use href="#led" x="17.5" y="4.5" class="led-on" />
+				<use href="#led" x="17.5" y="5.5" class="led-on" />
+				<use href="#led" x="17.5" y="8.5" class="led-on" />
+				<use href="#led" x="18.5" y="4.5" class="led-on" />
+				<use href="#led" x="18.5" y="7.5" class="led-on" />
+				<use href="#led" x="18.5" y="8.5" class="led-on" />
+				<use href="#led" x="18.5" y="9.5" class="led-on" />
+				<use href="#led" x="18.5" y="10.5" class="led-on" />
+				<use href="#led" x="19.5" y="2.5" class="led-on" />
+				<use href="#led" x="19.5" y="8.5" class="led-on" />
+				<use href="#led" x="19.5" y="9.5" class="led-on" />
+				<use href="#led" x="19.5" y="10.5" class="led-on" />
+				<use href="#led" x="19.5" y="11.5" class="led-on" />
+				<use href="#led" x="19.5" y="12.5" class="led-on" />
+				<use href="#led" x="20.5" y="1.5" class="led-on" />
+				<use href="#led" x="20.5" y="2.5" class="led-on" />
+				<use href="#led" x="20.5" y="3.5" class="led-on" />
+				<use href="#led" x="20.5" y="10.5" class="led-on" />
+				<use href="#led" x="20.5" y="11.5" class="led-on" />
+				<use href="#led" x="20.5" y="12.5" class="led-on" />
+				<use href="#led" x="20.5" y="13.5" class="led-on" />
+				<use href="#led" x="20.5" y="14.5" class="led-on" />
+				<use href="#led" x="20.5" y="15.5" class="led-on" />
+				<use href="#led" x="21.5" y="2.5" class="led-on" />
+				<use href="#led" x="21.5" y="3.5" class="led-on" />
+				<use href="#led" x="21.5" y="4.5" class="led-on" />
+				<use href="#led" x="21.5" y="12.5" class="led-on" />
+				<use href="#led" x="21.5" y="13.5" class="led-on" />
+				<use href="#led" x="21.5" y="14.5" class="led-on" />
+				<use href="#led" x="22.5" y="3.5" class="led-on" />
+			</g>
+			<g transform="translate(72,0)">
+				<use href="#led" x="3.5" y="9.5" class="led-on" />
+				<use href="#led" x="3.5" y="10.5" class="led-on" />
+				<use href="#led" x="4.5" y="5.5" class="led-on" />
+				<use href="#led" x="4.5" y="6.5" class="led-on" />
+				<use href="#led" x="4.5" y="9.5" class="led-on" />
+				<use href="#led" x="4.5" y="10.5" class="led-on" />
+				<use href="#led" x="4.5" y="15.5" class="led-on" />
+				<use href="#led" x="4.5" y="16.5" class="led-on" />
+				<use href="#led" x="4.5" y="17.5" class="led-on" />
+				<use href="#led" x="4.5" y="18.5" class="led-on" />
+				<use href="#led" x="4.5" y="19.5" class="led-on" />
+				<use href="#led" x="5.5" y="5.5" class="led-on" />
+				<use href="#led" x="5.5" y="6.5" class="led-on" />
+				<use href="#led" x="5.5" y="9.5" class="led-on" />
+				<use href="#led" x="5.5" y="10.5" class="led-on" />
+				<use href="#led" x="5.5" y="14.5" class="led-on" />
+				<use href="#led" x="5.5" y="15.5" class="led-on" />
+				<use href="#led" x="5.5" y="16.5" class="led-on" />
+				<use href="#led" x="5.5" y="17.5" class="led-on" />
+				<use href="#led" x="5.5" y="18.5" class="led-on" />
+				<use href="#led" x="5.5" y="19.5" class="led-on" />
+				<use href="#led" x="5.5" y="20.5" class="led-on" />
+				<use href="#led" x="6.5" y="5.5" class="led-on" />
+				<use href="#led" x="6.5" y="6.5" class="led-on" />
+				<use href="#led" x="6.5" y="9.5" class="led-on" />
+				<use href="#led" x="6.5" y="10.5" class="led-on" />
+				<use href="#led" x="6.5" y="13.5" class="led-on" />
+				<use href="#led" x="6.5" y="14.5" class="led-on" />
+				<use href="#led" x="6.5" y="15.5" class="led-on" />
+				<use href="#led" x="6.5" y="19.5" class="led-on" />
+				<use href="#led" x="6.5" y="20.5" class="led-on" />
+				<use href="#led" x="7.5" y="5.5" class="led-on" />
+				<use href="#led" x="7.5" y="6.5" class="led-on" />
+				<use href="#led" x="7.5" y="9.5" class="led-on" />
+				<use href="#led" x="7.5" y="10.5" class="led-on" />
+				<use href="#led" x="7.5" y="13.5" class="led-on" />
+				<use href="#led" x="7.5" y="14.5" class="led-on" />
+				<use href="#led" x="7.5" y="19.5" class="led-on" />
+				<use href="#led" x="7.5" y="20.5" class="led-on" />
+				<use href="#led" x="7.5" y="21.5" class="led-on" />
+				<use href="#led" x="8.5" y="5.5" class="led-on" />
+				<use href="#led" x="8.5" y="6.5" class="led-on" />
+				<use href="#led" x="8.5" y="9.5" class="led-on" />
+				<use href="#led" x="8.5" y="10.5" class="led-on" />
+				<use href="#led" x="8.5" y="13.5" class="led-on" />
+				<use href="#led" x="8.5" y="14.5" class="led-on" />
+				<use href="#led" x="8.5" y="20.5" class="led-on" />
+				<use href="#led" x="8.5" y="21.5" class="led-on" />
+				<use href="#led" x="9.5" y="1.5" class="led-on" />
+				<use href="#led" x="9.5" y="2.5" class="led-on" />
+				<use href="#led" x="9.5" y="3.5" class="led-on" />
+				<use href="#led" x="9.5" y="5.5" class="led-on" />
+				<use href="#led" x="9.5" y="6.5" class="led-on" />
+				<use href="#led" x="9.5" y="9.5" class="led-on" />
+				<use href="#led" x="9.5" y="10.5" class="led-on" />
+				<use href="#led" x="9.5" y="13.5" class="led-on" />
+				<use href="#led" x="9.5" y="14.5" class="led-on" />
+				<use href="#led" x="9.5" y="20.5" class="led-on" />
+				<use href="#led" x="9.5" y="21.5" class="led-on" />
+				<use href="#led" x="10.5" y="1.5" class="led-on" />
+				<use href="#led" x="10.5" y="2.5" class="led-on" />
+				<use href="#led" x="10.5" y="3.5" class="led-on" />
+				<use href="#led" x="10.5" y="4.5" class="led-on" />
+				<use href="#led" x="10.5" y="5.5" class="led-on" />
+				<use href="#led" x="10.5" y="6.5" class="led-on" />
+				<use href="#led" x="10.5" y="9.5" class="led-on" />
+				<use href="#led" x="10.5" y="10.5" class="led-on" />
+				<use href="#led" x="10.5" y="13.5" class="led-on" />
+				<use href="#led" x="10.5" y="14.5" class="led-on" />
+				<use href="#led" x="10.5" y="20.5" class="led-on" />
+				<use href="#led" x="10.5" y="21.5" class="led-on" />
+				<use href="#led" x="11.5" y="3.5" class="led-on" />
+				<use href="#led" x="11.5" y="4.5" class="led-on" />
+				<use href="#led" x="11.5" y="5.5" class="led-on" />
+				<use href="#led" x="11.5" y="6.5" class="led-on" />
+				<use href="#led" x="11.5" y="7.5" class="led-on" />
+				<use href="#led" x="11.5" y="9.5" class="led-on" />
+				<use href="#led" x="11.5" y="10.5" class="led-on" />
+				<use href="#led" x="11.5" y="13.5" class="led-on" />
+				<use href="#led" x="11.5" y="14.5" class="led-on" />
+				<use href="#led" x="11.5" y="20.5" class="led-on" />
+				<use href="#led" x="11.5" y="21.5" class="led-on" />
+				<use href="#led" x="12.5" y="4.5" class="led-on" />
+				<use href="#led" x="12.5" y="5.5" class="led-on" />
+				<use href="#led" x="12.5" y="6.5" class="led-on" />
+				<use href="#led" x="12.5" y="7.5" class="led-on" />
+				<use href="#led" x="12.5" y="8.5" class="led-on" />
+				<use href="#led" x="12.5" y="9.5" class="led-on" />
+				<use href="#led" x="12.5" y="10.5" class="led-on" />
+				<use href="#led" x="12.5" y="13.5" class="led-on" />
+				<use href="#led" x="12.5" y="14.5" class="led-on" />
+				<use href="#led" x="12.5" y="20.5" class="led-on" />
+				<use href="#led" x="12.5" y="21.5" class="led-on" />
+				<use href="#led" x="13.5" y="4.5" class="led-on" />
+				<use href="#led" x="13.5" y="5.5" class="led-on" />
+				<use href="#led" x="13.5" y="7.5" class="led-on" />
+				<use href="#led" x="13.5" y="8.5" class="led-on" />
+				<use href="#led" x="13.5" y="9.5" class="led-on" />
+				<use href="#led" x="13.5" y="10.5" class="led-on" />
+				<use href="#led" x="13.5" y="11.5" class="led-on" />
+				<use href="#led" x="13.5" y="14.5" class="led-on" />
+				<use href="#led" x="13.5" y="15.5" class="led-on" />
+				<use href="#led" x="13.5" y="20.5" class="led-on" />
+				<use href="#led" x="13.5" y="21.5" class="led-on" />
+				<use href="#led" x="14.5" y="4.5" class="led-on" />
+				<use href="#led" x="14.5" y="5.5" class="led-on" />
+				<use href="#led" x="14.5" y="8.5" class="led-on" />
+				<use href="#led" x="14.5" y="9.5" class="led-on" />
+				<use href="#led" x="14.5" y="10.5" class="led-on" />
+				<use href="#led" x="14.5" y="11.5" class="led-on" />
+				<use href="#led" x="14.5" y="12.5" class="led-on" />
+				<use href="#led" x="14.5" y="13.5" class="led-on" />
+				<use href="#led" x="14.5" y="14.5" class="led-on" />
+				<use href="#led" x="14.5" y="15.5" class="led-on" />
+				<use href="#led" x="14.5" y="20.5" class="led-on" />
+				<use href="#led" x="14.5" y="21.5" class="led-on" />
+				<use href="#led" x="15.5" y="3.5" class="led-on" />
+				<use href="#led" x="15.5" y="4.5" class="led-on" />
+				<use href="#led" x="15.5" y="5.5" class="led-on" />
+				<use href="#led" x="15.5" y="8.5" class="led-on" />
+				<use href="#led" x="15.5" y="9.5" class="led-on" />
+				<use href="#led" x="15.5" y="11.5" class="led-on" />
+				<use href="#led" x="15.5" y="12.5" class="led-on" />
+				<use href="#led" x="15.5" y="13.5" class="led-on" />
+				<use href="#led" x="15.5" y="14.5" class="led-on" />
+				<use href="#led" x="15.5" y="15.5" class="led-on" />
+				<use href="#led" x="15.5" y="20.5" class="led-on" />
+				<use href="#led" x="15.5" y="21.5" class="led-on" />
+				<use href="#led" x="16.5" y="3.5" class="led-on" />
+				<use href="#led" x="16.5" y="4.5" class="led-on" />
+				<use href="#led" x="16.5" y="8.5" class="led-on" />
+				<use href="#led" x="16.5" y="9.5" class="led-on" />
+				<use href="#led" x="16.5" y="13.5" class="led-on" />
+				<use href="#led" x="16.5" y="14.5" class="led-on" />
+				<use href="#led" x="16.5" y="15.5" class="led-on" />
+				<use href="#led" x="16.5" y="16.5" class="led-on" />
+				<use href="#led" x="16.5" y="20.5" class="led-on" />
+				<use href="#led" x="16.5" y="21.5" class="led-on" />
+				<use href="#led" x="17.5" y="3.5" class="led-on" />
+				<use href="#led" x="17.5" y="4.5" class="led-on" />
+				<use href="#led" x="17.5" y="7.5" class="led-on" />
+				<use href="#led" x="17.5" y="8.5" class="led-on" />
+				<use href="#led" x="17.5" y="9.5" class="led-on" />
+				<use href="#led" x="17.5" y="14.5" class="led-on" />
+				<use href="#led" x="17.5" y="15.5" class="led-on" />
+				<use href="#led" x="17.5" y="16.5" class="led-on" />
+				<use href="#led" x="18.5" y="3.5" class="led-on" />
+				<use href="#led" x="18.5" y="4.5" class="led-on" />
+				<use href="#led" x="18.5" y="7.5" class="led-on" />
+				<use href="#led" x="18.5" y="8.5" class="led-on" />
+				<use href="#led" x="18.5" y="15.5" class="led-on" />
+				<use href="#led" x="19.5" y="7.5" class="led-on" />
+				<use href="#led" x="19.5" y="8.5" class="led-on" />
+				<use href="#led" x="20.5" y="7.5" class="led-on" />
+				<use href="#led" x="20.5" y="8.5" class="led-on" />
+			</g>
+			<g transform="translate(96,0)">
+				<use href="#led" x="3.5" y="5.5" class="led-on" />
+				<use href="#led" x="3.5" y="6.5" class="led-on" />
+				<use href="#led" x="3.5" y="17.5" class="led-on" />
+				<use href="#led" x="3.5" y="18.5" class="led-on" />
+				<use href="#led" x="3.5" y="19.5" class="led-on" />
+				<use href="#led" x="4.5" y="5.5" class="led-on" />
+				<use href="#led" x="4.5" y="6.5" class="led-on" />
+				<use href="#led" x="4.5" y="9.5" class="led-on" />
+				<use href="#led" x="4.5" y="10.5" class="led-on" />
+				<use href="#led" x="4.5" y="16.5" class="led-on" />
+				<use href="#led" x="4.5" y="17.5" class="led-on" />
+				<use href="#led" x="4.5" y="18.5" class="led-on" />
+				<use href="#led" x="4.5" y="19.5" class="led-on" />
+				<use href="#led" x="4.5" y="20.5" class="led-on" />
+				<use href="#led" x="5.5" y="5.5" class="led-on" />
+				<use href="#led" x="5.5" y="6.5" class="led-on" />
+				<use href="#led" x="5.5" y="8.5" class="led-on" />
+				<use href="#led" x="5.5" y="9.5" class="led-on" />
+				<use href="#led" x="5.5" y="10.5" class="led-on" />
+				<use href="#led" x="5.5" y="11.5" class="led-on" />
+				<use href="#led" x="5.5" y="15.5" class="led-on" />
+				<use href="#led" x="5.5" y="16.5" class="led-on" />
+				<use href="#led" x="5.5" y="17.5" class="led-on" />
+				<use href="#led" x="5.5" y="19.5" class="led-on" />
+				<use href="#led" x="5.5" y="20.5" class="led-on" />
+				<use href="#led" x="5.5" y="21.5" class="led-on" />
+				<use href="#led" x="6.5" y="5.5" class="led-on" />
+				<use href="#led" x="6.5" y="6.5" class="led-on" />
+				<use href="#led" x="6.5" y="8.5" class="led-on" />
+				<use href="#led" x="6.5" y="10.5" class="led-on" />
+				<use href="#led" x="6.5" y="11.5" class="led-on" />
+				<use href="#led" x="6.5" y="15.5" class="led-on" />
+				<use href="#led" x="6.5" y="16.5" class="led-on" />
+				<use href="#led" x="6.5" y="20.5" class="led-on" />
+				<use href="#led" x="6.5" y="21.5" class="led-on" />
+				<use href="#led" x="7.5" y="5.5" class="led-on" />
+				<use href="#led" x="7.5" y="6.5" class="led-on" />
+				<use href="#led" x="7.5" y="10.5" class="led-on" />
+				<use href="#led" x="7.5" y="11.5" class="led-on" />
+				<use href="#led" x="7.5" y="15.5" class="led-on" />
+				<use href="#led" x="7.5" y="16.5" class="led-on" />
+				<use href="#led" x="7.5" y="20.5" class="led-on" />
+				<use href="#led" x="7.5" y="21.5" class="led-on" />
+				<use href="#led" x="8.5" y="5.5" class="led-on" />
+				<use href="#led" x="8.5" y="6.5" class="led-on" />
+				<use href="#led" x="8.5" y="10.5" class="led-on" />
+				<use href="#led" x="8.5" y="11.5" class="led-on" />
+				<use href="#led" x="8.5" y="15.5" class="led-on" />
+				<use href="#led" x="8.5" y="16.5" class="led-on" />
+				<use href="#led" x="8.5" y="20.5" class="led-on" />
+				<use href="#led" x="8.5" y="21.5" class="led-on" />
+				<use href="#led" x="9.5" y="5.5" class="led-on" />
+				<use href="#led" x="9.5" y="6.5" class="led-on" />
+				<use href="#led" x="9.5" y="10.5" class="led-on" />
+				<use href="#led" x="9.5" y="11.5" class="led-on" />
+				<use href="#led" x="9.5" y="15.5" class="led-on" />
+				<use href="#led" x="9.5" y="16.5" class="led-on" />
+				<use href="#led" x="9.5" y="20.5" class="led-on" />
+				<use href="#led" x="9.5" y="21.5" class="led-on" />
+				<use href="#led" x="10.5" y="5.5" class="led-on" />
+				<use href="#led" x="10.5" y="6.5" class="led-on" />
+				<use href="#led" x="10.5" y="10.5" class="led-on" />
+				<use href="#led" x="10.5" y="11.5" class="led-on" />
+				<use href="#led" x="10.5" y="15.5" class="led-on" />
+				<use href="#led" x="10.5" y="16.5" class="led-on" />
+				<use href="#led" x="10.5" y="19.5" class="led-on" />
+				<use href="#led" x="10.5" y="20.5" class="led-on" />
+				<use href="#led" x="10.5" y="21.5" class="led-on" />
+				<use href="#led" x="11.5" y="2.5" class="led-on" />
+				<use href="#led" x="11.5" y="3.5" class="led-on" />
+				<use href="#led" x="11.5" y="4.5" class="led-on" />
+				<use href="#led" x="11.5" y="5.5" class="led-on" />
+				<use href="#led" x="11.5" y="6.5" class="led-on" />
+				<use href="#led" x="11.5" y="7.5" class="led-on" />
+				<use href="#led" x="11.5" y="8.5" class="led-on" />
+				<use href="#led" x="11.5" y="9.5" class="led-on" />
+				<use href="#led" x="11.5" y="10.5" class="led-on" />
+				<use href="#led" x="11.5" y="11.5" class="led-on" />
+				<use href="#led" x="11.5" y="12.5" class="led-on" />
+				<use href="#led" x="11.5" y="13.5" class="led-on" />
+				<use href="#led" x="11.5" y="14.5" class="led-on" />
+				<use href="#led" x="11.5" y="15.5" class="led-on" />
+				<use href="#led" x="11.5" y="16.5" class="led-on" />
+				<use href="#led" x="11.5" y="17.5" class="led-on" />
+				<use href="#led" x="11.5" y="18.5" class="led-on" />
+				<use href="#led" x="11.5" y="19.5" class="led-on" />
+				<use href="#led" x="11.5" y="20.5" class="led-on" />
+				<use href="#led" x="12.5" y="2.5" class="led-on" />
+				<use href="#led" x="12.5" y="3.5" class="led-on" />
+				<use href="#led" x="12.5" y="4.5" class="led-on" />
+				<use href="#led" x="12.5" y="5.5" class="led-on" />
+				<use href="#led" x="12.5" y="6.5" class="led-on" />
+				<use href="#led" x="12.5" y="7.5" class="led-on" />
+				<use href="#led" x="12.5" y="8.5" class="led-on" />
+				<use href="#led" x="12.5" y="9.5" class="led-on" />
+				<use href="#led" x="12.5" y="10.5" class="led-on" />
+				<use href="#led" x="12.5" y="11.5" class="led-on" />
+				<use href="#led" x="12.5" y="12.5" class="led-on" />
+				<use href="#led" x="12.5" y="13.5" class="led-on" />
+				<use href="#led" x="12.5" y="14.5" class="led-on" />
+				<use href="#led" x="12.5" y="15.5" class="led-on" />
+				<use href="#led" x="12.5" y="16.5" class="led-on" />
+				<use href="#led" x="12.5" y="17.5" class="led-on" />
+				<use href="#led" x="12.5" y="18.5" class="led-on" />
+				<use href="#led" x="12.5" y="19.5" class="led-on" />
+				<use href="#led" x="13.5" y="5.5" class="led-on" />
+				<use href="#led" x="13.5" y="6.5" class="led-on" />
+				<use href="#led" x="13.5" y="10.5" class="led-on" />
+				<use href="#led" x="13.5" y="11.5" class="led-on" />
+				<use href="#led" x="13.5" y="15.5" class="led-on" />
+				<use href="#led" x="13.5" y="16.5" class="led-on" />
+				<use href="#led" x="14.5" y="5.5" class="led-on" />
+				<use href="#led" x="14.5" y="6.5" class="led-on" />
+				<use href="#led" x="14.5" y="10.5" class="led-on" />
+				<use href="#led" x="14.5" y="11.5" class="led-on" />
+				<use href="#led" x="14.5" y="15.5" class="led-on" />
+				<use href="#led" x="14.5" y="16.5" class="led-on" />
+				<use href="#led" x="14.5" y="17.5" class="led-on" />
+				<use href="#led" x="15.5" y="5.5" class="led-on" />
+				<use href="#led" x="15.5" y="6.5" class="led-on" />
+				<use href="#led" x="15.5" y="10.5" class="led-on" />
+				<use href="#led" x="15.5" y="11.5" class="led-on" />
+				<use href="#led" x="15.5" y="16.5" class="led-on" />
+				<use href="#led" x="15.5" y="17.5" class="led-on" />
+				<use href="#led" x="16.5" y="5.5" class="led-on" />
+				<use href="#led" x="16.5" y="6.5" class="led-on" />
+				<use href="#led" x="16.5" y="10.5" class="led-on" />
+				<use href="#led" x="16.5" y="11.5" class="led-on" />
+				<use href="#led" x="16.5" y="16.5" class="led-on" />
+				<use href="#led" x="16.5" y="17.5" class="led-on" />
+				<use href="#led" x="16.5" y="18.5" class="led-on" />
+				<use href="#led" x="17.5" y="4.5" class="led-on" />
+				<use href="#led" x="17.5" y="5.5" class="led-on" />
+				<use href="#led" x="17.5" y="9.5" class="led-on" />
+				<use href="#led" x="17.5" y="10.5" class="led-on" />
+				<use href="#led" x="17.5" y="17.5" class="led-on" />
+				<use href="#led" x="17.5" y="18.5" class="led-on" />
+				<use href="#led" x="18.5" y="4.5" class="led-on" />
+				<use href="#led" x="18.5" y="5.5" class="led-on" />
+				<use href="#led" x="18.5" y="9.5" class="led-on" />
+				<use href="#led" x="18.5" y="10.5" class="led-on" />
+				<use href="#led" x="18.5" y="17.5" class="led-on" />
+				<use href="#led" x="18.5" y="18.5" class="led-on" />
+				<use href="#led" x="18.5" y="19.5" class="led-on" />
+				<use href="#led" x="19.5" y="4.5" class="led-on" />
+				<use href="#led" x="19.5" y="5.5" class="led-on" />
+				<use href="#led" x="19.5" y="18.5" class="led-on" />
+			</g>
+			<g transform="translate(120,0)">
+				<use href="#led" x="2.5" y="4.5" class="led-on" />
+				<use href="#led" x="2.5" y="5.5" class="led-on" />
+				<use href="#led" x="3.5" y="4.5" class="led-on" />
+				<use href="#led" x="3.5" y="5.5" class="led-on" />
+				<use href="#led" x="4.5" y="4.5" class="led-on" />
+				<use href="#led" x="4.5" y="5.5" class="led-on" />
+				<use href="#led" x="5.5" y="4.5" class="led-on" />
+				<use href="#led" x="5.5" y="5.5" class="led-on" />
+				<use href="#led" x="6.5" y="4.5" class="led-on" />
+				<use href="#led" x="6.5" y="5.5" class="led-on" />
+				<use href="#led" x="6.5" y="10.5" class="led-on" />
+				<use href="#led" x="6.5" y="11.5" class="led-on" />
+				<use href="#led" x="6.5" y="12.5" class="led-on" />
+				<use href="#led" x="6.5" y="13.5" class="led-on" />
+				<use href="#led" x="7.5" y="4.5" class="led-on" />
+				<use href="#led" x="7.5" y="5.5" class="led-on" />
+				<use href="#led" x="7.5" y="9.5" class="led-on" />
+				<use href="#led" x="7.5" y="10.5" class="led-on" />
+				<use href="#led" x="7.5" y="11.5" class="led-on" />
+				<use href="#led" x="7.5" y="12.5" class="led-on" />
+				<use href="#led" x="7.5" y="13.5" class="led-on" />
+				<use href="#led" x="7.5" y="14.5" class="led-on" />
+				<use href="#led" x="8.5" y="4.5" class="led-on" />
+				<use href="#led" x="8.5" y="5.5" class="led-on" />
+				<use href="#led" x="8.5" y="8.5" class="led-on" />
+				<use href="#led" x="8.5" y="9.5" class="led-on" />
+				<use href="#led" x="8.5" y="10.5" class="led-on" />
+				<use href="#led" x="8.5" y="13.5" class="led-on" />
+				<use href="#led" x="8.5" y="14.5" class="led-on" />
+				<use href="#led" x="8.5" y="15.5" class="led-on" />
+				<use href="#led" x="8.5" y="20.5" class="led-on" />
+				<use href="#led" x="9.5" y="4.5" class="led-on" />
+				<use href="#led" x="9.5" y="5.5" class="led-on" />
+				<use href="#led" x="9.5" y="8.5" class="led-on" />
+				<use href="#led" x="9.5" y="9.5" class="led-on" />
+				<use href="#led" x="9.5" y="14.5" class="led-on" />
+				<use href="#led" x="9.5" y="15.5" class="led-on" />
+				<use href="#led" x="9.5" y="19.5" class="led-on" />
+				<use href="#led" x="9.5" y="20.5" class="led-on" />
+				<use href="#led" x="9.5" y="21.5" class="led-on" />
+				<use href="#led" x="10.5" y="4.5" class="led-on" />
+				<use href="#led" x="10.5" y="5.5" class="led-on" />
+				<use href="#led" x="10.5" y="8.5" class="led-on" />
+				<use href="#led" x="10.5" y="9.5" class="led-on" />
+				<use href="#led" x="10.5" y="14.5" class="led-on" />
+				<use href="#led" x="10.5" y="15.5" class="led-on" />
+				<use href="#led" x="10.5" y="18.5" class="led-on" />
+				<use href="#led" x="10.5" y="19.5" class="led-on" />
+				<use href="#led" x="10.5" y="20.5" class="led-on" />
+				<use href="#led" x="11.5" y="4.5" class="led-on" />
+				<use href="#led" x="11.5" y="5.5" class="led-on" />
+				<use href="#led" x="11.5" y="8.5" class="led-on" />
+				<use href="#led" x="11.5" y="9.5" class="led-on" />
+				<use href="#led" x="11.5" y="14.5" class="led-on" />
+				<use href="#led" x="11.5" y="15.5" class="led-on" />
+				<use href="#led" x="11.5" y="17.5" class="led-on" />
+				<use href="#led" x="11.5" y="18.5" class="led-on" />
+				<use href="#led" x="11.5" y="19.5" class="led-on" />
+				<use href="#led" x="12.5" y="1.5" class="led-on" />
+				<use href="#led" x="12.5" y="2.5" class="led-on" />
+				<use href="#led" x="12.5" y="3.5" class="led-on" />
+				<use href="#led" x="12.5" y="4.5" class="led-on" />
+				<use href="#led" x="12.5" y="5.5" class="led-on" />
+				<use href="#led" x="12.5" y="6.5" class="led-on" />
+				<use href="#led" x="12.5" y="7.5" class="led-on" />
+				<use href="#led" x="12.5" y="8.5" class="led-on" />
+				<use href="#led" x="12.5" y="9.5" class="led-on" />
+				<use href="#led" x="12.5" y="10.5" class="led-on" />
+				<use href="#led" x="12.5" y="13.5" class="led-on" />
+				<use href="#led" x="12.5" y="14.5" class="led-on" />
+				<use href="#led" x="12.5" y="15.5" class="led-on" />
+				<use href="#led" x="12.5" y="16.5" class="led-on" />
+				<use href="#led" x="12.5" y="17.5" class="led-on" />
+				<use href="#led" x="12.5" y="18.5" class="led-on" />
+				<use href="#led" x="13.5" y="1.5" class="led-on" />
+				<use href="#led" x="13.5" y="2.5" class="led-on" />
+				<use href="#led" x="13.5" y="3.5" class="led-on" />
+				<use href="#led" x="13.5" y="4.5" class="led-on" />
+				<use href="#led" x="13.5" y="5.5" class="led-on" />
+				<use href="#led" x="13.5" y="6.5" class="led-on" />
+				<use href="#led" x="13.5" y="7.5" class="led-on" />
+				<use href="#led" x="13.5" y="8.5" class="led-on" />
+				<use href="#led" x="13.5" y="9.5" class="led-on" />
+				<use href="#led" x="13.5" y="10.5" class="led-on" />
+				<use href="#led" x="13.5" y="11.5" class="led-on" />
+				<use href="#led" x="13.5" y="12.5" class="led-on" />
+				<use href="#led" x="13.5" y="13.5" class="led-on" />
+				<use href="#led" x="13.5" y="14.5" class="led-on" />
+				<use href="#led" x="13.5" y="15.5" class="led-on" />
+				<use href="#led" x="13.5" y="16.5" class="led-on" />
+				<use href="#led" x="13.5" y="17.5" class="led-on" />
+				<use href="#led" x="14.5" y="4.5" class="led-on" />
+				<use href="#led" x="14.5" y="5.5" class="led-on" />
+				<use href="#led" x="14.5" y="10.5" class="led-on" />
+				<use href="#led" x="14.5" y="11.5" class="led-on" />
+				<use href="#led" x="14.5" y="12.5" class="led-on" />
+				<use href="#led" x="14.5" y="13.5" class="led-on" />
+				<use href="#led" x="14.5" y="14.5" class="led-on" />
+				<use href="#led" x="14.5" y="15.5" class="led-on" />
+				<use href="#led" x="15.5" y="4.5" class="led-on" />
+				<use href="#led" x="15.5" y="5.5" class="led-on" />
+				<use href="#led" x="16.5" y="4.5" class="led-on" />
+				<use href="#led" x="16.5" y="5.5" class="led-on" />
+				<use href="#led" x="17.5" y="4.5" class="led-on" />
+				<use href="#led" x="17.5" y="5.5" class="led-on" />
+				<use href="#led" x="18.5" y="4.5" class="led-on" />
+				<use href="#led" x="18.5" y="5.5" class="led-on" />
+				<use href="#led" x="19.5" y="4.5" class="led-on" />
+				<use href="#led" x="19.5" y="5.5" class="led-on" />
+				<use href="#led" x="20.5" y="4.5" class="led-on" />
+				<use href="#led" x="20.5" y="5.5" class="led-on" />
+				<use href="#led" x="21.5" y="4.5" class="led-on" />
+				<use href="#led" x="21.5" y="5.5" class="led-on" />
+			</g>
+		</g>
+		<use href="#led_light" style="filter: url(#blur)" />
+	</g>
+</svg>
