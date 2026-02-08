@@ -56,9 +56,11 @@ LEDMatrix.assets= LEDMatrix/meta.json \
   LEDMatrix/ledmatrix_ev_space.png \
   LEDMatrix/ledmatrix_ev_upwardsarrow.png \
   LEDMatrix/ledmatrix_ev_upwardsarrow_a.png \
+  LEDMatrix/ledmatrix_r16_igyo.png \
   LEDMatrix/ledmatrix_r16_nextis.png \
   LEDMatrix/ledmatrix_r16_nextomaeda.png \
   LEDMatrix/ledmatrix_r16_notification.png \
+  LEDMatrix/ledmatrix_r16_scrolling_igyo.png \
   LEDMatrix/ledmatrix_r16_voted.png \
   LEDMatrix/ledmatrix_r24_yokohamasubwayblueline_trainarrival.png
 
@@ -98,3 +100,10 @@ LEDMatrix/ledmatrix_r24_yokohamasubwayblueline_trainarrival.png: .LEDMatrix.pre 
 LEDMatrix/ledmatrix_r24_yokohamasubwayblueline_trainarrival/0.png: .LEDMatrix.pre ../LEDMatrix/R24/ledmatrix_r24_yokohamasubwayblueline_trainarrival.rawr
 	mkdir -p LEDMatrix/ledmatrix_r24_yokohamasubwayblueline_trainarrival
 	.script/fe_glaxnimate.sh -r LEDMatrix/ledmatrix_r24_yokohamasubwayblueline_trainarrival/.png --render-format png --frame all ../LEDMatrix/R24/ledmatrix_r24_yokohamasubwayblueline_trainarrival.rawr
+
+LEDMatrix/ledmatrix_r16_scrolling_igyo.png: .LEDMatrix.pre LEDMatrix/ledmatrix_r16_scrolling_igyo/0.png
+	apngasm -F -d 1:24 -o LEDMatrix/ledmatrix_r16_scrolling_igyo.png LEDMatrix/ledmatrix_r16_scrolling_igyo/*.png
+
+LEDMatrix/ledmatrix_r16_scrolling_igyo/0.png: .LEDMatrix.pre ../LEDMatrix/R16/ledmatrix_r16_scrolling_igyo.rawr
+	mkdir -p LEDMatrix/ledmatrix_r16_scrolling_igyo
+	.script/fe_glaxnimate.sh -r LEDMatrix/ledmatrix_r16_scrolling_igyo/.png --render-format png --frame all ../LEDMatrix/R16/ledmatrix_r16_scrolling_igyo.rawr
