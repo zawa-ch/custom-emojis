@@ -410,6 +410,18 @@
 		"isSensitive": false
 	},
 	{
+		"name": "ledmatrix_r16_voted",
+		"category": "LEDMatrix/Round16dot",
+		"type": "image/png",
+		"aliases": [
+			"投票完了",
+			"選挙"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2026 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "ledmatrix_r24_yokohamasubwayblueline_trainarrival",
 		"category": "LEDMatrix/Round24dot",
 		"type": "image/apng",

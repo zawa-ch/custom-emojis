@@ -59,6 +59,7 @@ LEDMatrix.assets= LEDMatrix/meta.json \
   LEDMatrix/ledmatrix_r16_nextis.png \
   LEDMatrix/ledmatrix_r16_nextomaeda.png \
   LEDMatrix/ledmatrix_r16_notification.png \
+  LEDMatrix/ledmatrix_r16_voted.png \
   LEDMatrix/ledmatrix_r24_yokohamasubwayblueline_trainarrival.png
 
 LEDMatrix.assets: $(LEDMatrix.assets)
