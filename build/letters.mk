@@ -18,6 +18,7 @@ letters.assets= letters/meta.json \
   letters/darwinishere_rhinoceros_subtitle.png \
   letters/themaking_closing_subtitle.png \
   letters/hangoroshi_dialect_subtitle.png \
+  letters/kirbysairrider_roadtrip_notwanted_subtitle.png \
   letters/rotating_threedimensional_gold_igyo.png \
   letters/square_daitaisou.png \
   letters/square_issyoniblackholejikkenshiyo.png \

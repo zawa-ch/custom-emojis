@@ -48,6 +48,19 @@
 		"isSensitive": true
 	},
 	{
+		"name": "kirbysairrider_roadtrip_notwanted_subtitle",
+		"category": "Letters/subtitle-ja",
+		"type": "image/png",
+		"aliases": [
+			"しかしそういった弱いライダーは元々求められていない",
+			"shikashisouittayowairaidahamotomotomotomerareteinai",
+			"エアライダー"
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0), Copyright 2026 zawa-ch.(https://geoplanetary.net/@stellar_ch).",
+		"localOnly": false,
+		"isSensitive": true
+	},
+	{
 		"name": "rotating_threedimensional_gold_igyo",
 		"category": "Letters/偉業-ja",
 		"type": "image/apng",
